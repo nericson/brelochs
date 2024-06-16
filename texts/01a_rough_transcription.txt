@@ -1,10 +1,12 @@
 <page01>
+<sec01>
 Practica Teutsch ausf das jare Chri-
 Jesu Christi vnsers erlösers / Fünffzehen hundert vund xxix. auß den leeren der
 weysen ercarnen des gestirns gezogen / zu sunderlichem nutz der menschen /
 Vund durch Anthonium Brelochs der natuͤrlichen kunst vnd Ertzney Doctort
 zu Schwebischen Hall / bestelten leyöartzet / auff das kürtzet auffgericht.
 <page02>
+<sec02>
 Den Vesten / EErbaren / Fürsichtigen / Ersamen
 und weysen / Stetmeyster und Rathe / der Stat Schwebischen
 Hall/ meinen guͤnstigen gebietenden lieben herrn.
@@ -75,6 +77,7 @@ Geben am tag Johannis des Tauffers / den. 24. des Brachmonats / Anno rc.
 . F. No.
 Gehorsamer / Bestelter Leybartzet /
 Anthonius Brelochs / Doctor.
+<sec03>
 Von der Befinsternuß des Mons.
 ¶ Der Mon wurd verdunckelt auff Suntag nach Galli den. 17. tag des Wein=
 monars / in dem dritten grad des Stiers / im zeychen seiner erho hung / welcher
@@ -82,6 +85,7 @@ anfang / wurdt gleich vmb siben vr / das mittel vmb. 8. vr. 27. minuten / Aber
 das ende vind. 10. vr vnd. 4. minuten vor mittag / welche am Basten gegen Ni-
 dergang der Sunnen gesehen wirdt / vnd ist droen vil boses vnd vngemachs /
 Gott wol es zu dem besten wenden.
+<sec04>
 Welchen Planeten das Regiment zu gelegt/ vnd fuͤr
 Regierer dises. 29. Jares / der mindern zale / gehalten werden.
 ¶ Auß gelassen vmo kurtz willen / die gemeinen vrsachen der hymel / als sein /
@@ -109,6 +113,7 @@ Leopoldi Austriaci) werden erkant die geschieklig keyt aller leydlichen ding vn-
 ser vntersten welt/ in disem kunfstigen jare / Was nun auß ob angezeygten ge-
 schickligkeyten zu erscheinen kuͤnffrig zuuersichtlich / wirdt nach folgents one sun
 derlichen zusatz schlecht nach der substantz vermerckt.
+<sec05>
 Wie sich die Frücht aller wachsenden ding / in
 thewre / wolfayle / auff vnd absteygen / dises jares anzeygen werden.
 ¶ Nach dem einfluß des hymels / vnnd so vil auß den principal Constellation
@@ -132,6 +137,7 @@ dern geschlecht der fruͤcht/ so ferr es im fraͤling durch kelt vnnd revsfen/ n
 gents in dem Summer durch vngestum windt vn regen nit gedruch leyden wurd
 Doch Gott ein schoͤpffer der gestirn vnd aller gewechs des Erdtrichs dise vnd
 andere ding ist schicken nach seinem goͤtlichen willen.
+<sec06>
 Von Krießlauffen / gezenck / hader /auffrur
 und widerwertig keyten in disem jare zubesorgen.
 ¶Wiewol Venus die natur vnd Complexion Jouis hat / zu der guͤttigkeyt vn
@@ -168,6 +174,7 @@ dieweyl er fürgengig gefunden in seinem hauß / Darumb wir Gott / der die hy=
 mel vnd das gestirn erschaffen hat / mit inbrunstigen hertzen / anruffen vnd Bit-
 ten wöllen / das er alle ding / nach seinem götlichen willen / zu der seele seligkeyt
 wenden wölle.
+<sec07>
 Von den Kranckheytten / so dits jares / den menschen
 vnd thieren/ etwas mer geferlich/ auß einfluß der gestirn angezeygt werden.
 ¶ Auß sleyssiger Betrachtung der aussgerichten siguren des hymels der Plane/
@@ -203,6 +210,7 @@ von deren wegen er vns mit mancherley kranckheyt vilfeltigen strafft / absteen /
 und vnser leben Bessern zu der seelen selig keyten,
 <A ii>
 <page06>
+<sec08>
 Von den Stenden der menschen nach art vnd
 ordnung der siben Planeten / kürtzlichen begriffen.
 ¶Alle menschen so dem Planeten Saturno vnterworffen / ond sich seines Re=
@@ -328,6 +336,7 @@ gen auff vnd Nidergang der Sunnen gewarnet vor der Pestilentz / jre wider/
 wertige tag sein / als offt der Mond inn dem. 15. grad der wag / biß inn den. 15.
 gred des Scorpion geet / mit bo sen anschauungen der Sunnen / des neydigen
 Saturni/ ond der grewlichen Martis.
+<sec09>
 Von Stenden etzlicher Königreychen / Landt=
 schafften / und Stetten auff dem kreyß des Erdtrichs.
 ¶Das Teurschland / klein Poln / darinn Crackaw die königklich stat ligt / We=
@@ -392,6 +401,7 @@ werden nit on sein etlicher kranckheyten/ nemlich werden sie fuͤlen/ hauptseuch
 ten / weetagen der hüfft / hendt / und fuͤß / und etzlich durch schnell kranckheyten
 auch durch die Pestilentz auffgeben jre geyst/ Sie sollen auch sich huͤten vor dem
 darmgicht vnd allen kranck heyten der ingeweyd.
+<sec10a>
 Von geschickligkeyten vnd verenderung des luffts
 vnd vngewitters / in den vier zeyten des jares / mit anzeygung der
 zwölff Monadten / irer newen / brüch / vnd vierteyl / vnd
@@ -562,6 +572,7 @@ wuͤrdt mit regen eingefurt werden. Mitwochen vnd Donnerstag nach Bonifa
 <page13>
 ci / mitteglich wind mit regen / Donner mit hymlugzen / und an etlichen ortten vn
 gestuͤme witterung.
+<sec10b>
 Von dem Summer vnd seinen newen vnd vollen Mondschein.
 ¶ Der Sumer (welcher auß angeborner Complexion heyst vnd trucken / in wel
 lichem sich nit wenig bewegen vund herschen ist Colera) dritt ein auff den. 12.
