@@ -1,5 +1,3 @@
-**Translation of the German Text:**
-
 <page01>
 <sec01>
 German Almanac for the Year of Our Lord
@@ -16,6 +14,7 @@ Anthonius Brelochs, Doctor.
 <sec03>
 On the Eclipse of the Moon.
 ¶ The moon will be eclipsed on Sunday after Gallus, the 17th day of October, in the third degree of Taurus, in the sign of its exaltation, which will begin at about seven o’clock, the middle at 8:27, and the end at 10:04 in the morning, best seen against the setting sun, and it threatens much evil and distress. May God turn it for the best.
+
 <sec04>
 Which Planet Will Govern and Be Considered the Ruler of This 29th Year
 
@@ -35,6 +34,7 @@ On Wars, Disputes, Quarrels, Rebellions, and Adversities to Be Expected This Yea
 On the Diseases that Will Be More Dangerous for People and Animals This Year Due to the Influence of the Stars
 
 ¶ From a diligent study of the erected figures of the heavens of the planets and other fixed stars at the time of the sun’s entry into the first points of Aries and the other cardinal signs, it is indicated that in this coming year, people will be inclined to suffer harmful and often deadly diseases. Since the moon, after separating from the sun, tends to approach the angry planet Mars, who, as mentioned earlier, is in his power and exaltation, sharing the rulership with Venus. Thus, according to the teachings of Ptolemy and Albumasar, it indicates sudden and swift death, sharp contagious fevers, bloody and severe swellings, and other diseases that arise from heated, decayed blood. Many people in the south, north, and also towards the west will be at risk of death due to thin, bloody flux of the bowels. Additionally, Saturn in Taurus signifies that many parts of the world will experience serious illnesses caused by various natural and unnatural disruptions and changes in the air. Therefore, the plague is greatly to be feared this year and will be found highly dangerous for the inhabitants of the seventh climate. Albumasar publicly testifies that when Saturn completes his course in Taurus, forward, it indicates that people will suffer illnesses of the upper limbs, common illnesses this year to be expected, such as headaches, nasal discharge, eye, ear, and nasal pain, swellings of the throat, chest ailments, coughs, stomach pain, liver obstructions, urinary retention, dropsy, gout, and rheumatism. Both genders are warned of severe swellings and pains in the private and shameful parts. Noticeable significant epidemics are also threatened among the cattle due to the stars. We must fervently pray to God, our creator and savior, that He may grant us grace to refrain from the many punishments of various diseases He uses to chastise us and to improve our lives towards the salvation of our souls.
+
 <sec08>
 On the Conditions of People According to the Nature and Order of the Seven Planets, Summarized Briefly.
 
@@ -51,6 +51,7 @@ On the Conditions of People According to the Nature and Order of the Seven Plane
 ¶ Those under the influence of the planet Mercury, such as merchants, scribes, accountants, astronomers, doctors, printers, and poets, as well as all those involved in subtle arts and trades, will not have much luck. When, as Albumasar testifies, Mars looks unfavorably upon Mercury, the aforementioned people will have little success in their endeavors and business. They will be despised and oppressed by authorities. Merchants will suffer great losses on the water from storms and bad weather and should beware of being robbed of their goods along the way. Likewise, officials, counselors to princes, and city councilors managing such matters should be cautious and wise to avoid misfortune from their lords and the community. They will face troublesome times from the beginning of the year until the end of February, March, April until the end of May, August, and the middle of autumn until winter and December. They are also warned about pestilential fevers, deadly diseases of the head, eye ailments, throat illnesses, gout, stone diseases, and intestinal issues.
 
 ¶ Those under the influence and governance of the moon in their livelihood, such as travelers, sailors, fishermen, bath attendants, and all common people with unstable conditions and water-related work, will find adverse fortune this year. They will be hated by princes and lords and their authorities, suffering much from their lords against the common people. Some will gain little profit in their goods and sustenance. They will face significant harm from warlike people and will experience much upheaval and conflict among themselves. Brothers will turn against brothers, friends against friends, and companions will sometimes deceive their fellows. Some will strive to rise against their rulers and authorities, possibly leading to civil and populous rebellions in many places. Therefore, rulers and councils of lords and cities should be vigilant to resist such evil. Many will suffer from head diseases, eye ailments, limb pain with paralysis, and are warned against the plague. Their adverse days are when the moon moves from the 15th degree of Libra to the 15th degree of Scorpio, with bad aspects from the sun, envious Saturn, and grim Mars.
+
 <sec09>
 On the States of Certain Kingdoms, Lands, and Cities Around the Earth.
 
@@ -63,155 +64,125 @@ On the States of Certain Kingdoms, Lands, and Cities Around the Earth.
 ¶ Thuringia, Saxony, Hesse, Switzerland, Prussia, Russia, Bologna, Bamberg, and parts of Asia Minor will prepare for war, leading to grief and danger. Some will suffer great persecution from their authorities and will be in much discord among themselves, leading to bloodshed and considerable offenses from surrounding lands. Their endeavors and plans will mostly be thwarted. Their authorities are warned to avoid being taken by deadly diseases, as this could lead to the destruction of their lands. The fruits and growth of the earth will be damaged in some places due to excess moisture and unfavorable air. Many will be swiftly taken by death through the plague.
 
 ¶ Swabia, Franconia, Alsace, Sundgau, Nuremberg, Augsburg, Salzburg, Ulm, Erfurt, Frankfurt, Heidelberg, Speyer, and the surrounding cities: if they do not take precautions this year, discord will arise in many places among them. Some will rebel against their authorities, slandering them with vile lies. If they are not attacked by martial forces and some powerful princes and lords, they will otherwise have a fairly fortunate year. If they encounter any adversities, they will pass without significant harm. They will have a reasonable growth of earth's fruits, wine, and grain. They will not be free from some illnesses, particularly experiencing head diseases, hip, hand, and foot pains, and some will give up their spirits through sudden illnesses and the plague. They should also guard against gout and all diseases of the intestines.
-### Conditions for Livestock and Monthly Weather Predictions
 
-¶ Livestock used for human benefit will face illnesses, and some will die.
+<sec10a>
+On the Characteristics and Changes of the Air and Weather in the Four Seasons of the Year, with Indications of the Twelve Months, their New, Waning, and Quarter Moons, and Beginning with the State of Winter.
 
-**Yearly Overview:**
+The winter season, according to astrological calculations, begins on the 11th of December at 6:00 PM. According to the general influence of the stars, it is inclined towards moderate cold, although in many places and cities towards the west, south, and north, sharp cold will arise, lasting many days and causing damage to many things. In warm regions, wet weather with abundant snow will occur. It is to be expected that during this time, in some places, there will be strong, stormy winds, similar to those found in the southern and western regions, which will be most dangerous. Illnesses of particular concern during this time will include headaches, strokes, chest ailments, coughs, side pains, throat abscesses, nasal discharge, gout, diarrhea, bladder and kidney pains, and the plague, which will most threaten those living in the south and north. However, others will also find it hard to escape these illnesses. Four-legged animals, used for human benefit, will suffer illnesses, and some will die.
 
-1. **First Day of the Roman Year:**
-   - Very windy and cold in many places with cloudy skies.
+On New Year’s Day, the first day of the Roman year, it will be very windy, sufficiently cold in some places, with clouds. The last quarter moon on the Saturday after New Year’s Day at 8:18 PM will be unstable, yet cold according to the season, also damp with winds mixed before midnight, and in many places, it will continue until the evening of Epiphany. On St. Erhard’s Day and the following days, there will be a significant change in the air with wind and moisture in some places with sleet.
 
-2. **First Quarter Moon (Saturday after New Year’s Day at 8:18 PM):**
-   - Unstable, cold, and damp with winds mixed with moisture, lasting until the evening of Epiphany. Significant changes in the weather around St. Erhard's Day and the following days, including ice and moisture in some regions.
+The new moon in February on the Sunday after St. Erhard’s Day at 9:05 AM will feature weather typical for the time, with sharp cold winds, quick moisture, and black and gloomy clouds moving about. On the Monday after, strong cold wind will follow, after which snow or rain will follow, depending on the location. This will continue in many places until the Wednesday after. The Friday after St. Felix’s Day will bring cloudy air, in many places bringing moisture with blowing winds.
 
-3. **New Moon in February (Sunday after St. Erhard’s Day at 9:05 AM):**
-   - Harsh cold winds with rapid moisture, cloudy and dark skies. Cold winds followed by snow or rain depending on the location, continuing until the following Wednesday. Cloudy and wet conditions, especially on the Friday after St. Felix's Day.
+The first quarter moon on the day of St. Ambrose at 1:28 PM will generally bring unstable, yet cold and dark air, followed by snowy moisture with sleet in cold regions, but rain in warm areas. Around St. Prisca’s Day, there will be cold, gloomy air with north winds and quick moisture or rain depending on the location, lasting until St. Sebastian’s Day. On St. Vincent’s Day, expect windy and dark air.
 
-4. **First Quarter Moon (Day of St. Ambrose at 1:28 PM):**
-   - Generally unstable and cold weather with dark skies. Snow and sleet in cold regions, rain in warmer areas. Cold and cloudy weather with northerly winds and quick moisture lasting until St. Sebastian's Day.
+The full moon in February on the Sunday after St. Sebastian’s Day at 12:42 PM will be cloudy, foggy, and unstable with damp winds, which will be somewhat harmful in some places, continuing in many places until the Tuesday after the Conversion of St. Paul. The Friday after St. Paul’s Conversion, or around that time, there will be cold wind, and in many places, snow or rain on the following Saturday, depending on the location. The Sunday after will be cold wind with a dark sky.
 
-5. **Full Moon in February (Sunday after St. Sebastian's Day at 12:42 PM):**
-   - Cloudy and foggy with unstable and damp winds. These conditions will persist until the Tuesday after St. Paul's Conversion. Cold winds and potential for snow or rain, followed by dark skies and cold weather.
+The last quarter moon on the evening of Candlemas at 4:03 PM will be cold and windy, with quick moisture in many places, and dark clouds mixed with red will appear, lasting until St. Blaise’s Day. On St. Agatha’s Day, the Saturday and Sunday after will feature strong cold winds, after which snow or rain will fall.
 
-6. **First Quarter Moon (Evening of Candlemas at 4:03 PM):**
-   - Cold and windy, with rapid moisture and dark clouds mixed with red hues, lasting until St. Blasius' Day. Strong cold winds followed by snow or rain on St. Agatha's Day and the following weekend.
+The new moon in March on the Monday after St. Dorothy’s Day at 8:17 PM will be sufficiently cold, with dark air and quick moisture in mountainous regions, but otherwise rain with north winds. On the Tuesday and Wednesday after, expect cold, damp wind with awkward clouds. On the evening of St. Valentine’s Day and the days after, it will be cold with a dark sky, and in many places, strong winds will bring quick moisture.
 
-7. **New Moon in March (Monday after St. Dorothy's Day at 8:17 PM):**
-   - Cold and cloudy with rapid moisture in mountainous regions, rain and northerly winds elsewhere. Cold, damp, and windy conditions on the Tuesday and Wednesday following St. Valentine's Day.
+The first quarter moon on the Monday after St. Valentine’s Day at 10:58 AM will bring unstable weather, now cold, then cloudy with dark, gloomy air and sharp winds. Around St. Juliana’s Day, the Wednesday and Thursday after, it will be windy with gloomy rain. In mountainous areas, there will be quick moisture. On the Saturday and Sunday after St. Juliana’s Day, expect stormy, gloomy, cold air, tending towards fog or rain.
 
-8. **First Quarter Moon (Monday after St. Valentine's Day at 10:58 AM):**
-   - Unstable weather with alternating cold and cloudy skies, dark and damp weather with strong winds. Windy and rainy around St. Juliana's Day, with snow in mountainous regions. Windy and dark on the Saturday and Sunday following St. Juliana’s Day.
+The full moon in March on the evening of St. Matthias’ Day at 6:25 PM will be windy and cold, with clouds moving about, and in many places, it will be gloomy with rain or snow, depending on the location. On St. Matthias’ Day, there will be strong wind, bringing rain in some places. Around the Friday after St. Matthias’ Day, the weather will change to cold and gloomy air, with heavy rain in some areas. Thunder will be heard in warm regions. On the Sunday after St. Matthias’ Day, it will be cold, windy, and dark, with rain experienced in some places. Around Tuesday, there will be wind from the north.
 
-9. **Full Moon in March (Evening of St. Matthias' Day at 6:25 PM):**
-   - Windy and cold with cloudy skies, rain or snow depending on the location. Strong winds and potential rain on St. Matthias' Day. Cold, dark, and rainy on the Sunday after St. Matthias' Day.
+The last quarter moon on the Wednesday after Laetare Sunday at 8:58 AM will be cold, windy, and rainy. In warm regions, thunder may be heard around this time. On the Friday and Saturday after, and on the Sunday of Mid-Lent, there will be cold, snowy air with darkness; in some places, there will be rain. On the Tuesday after Mid-Lent, there will be wind with rain.
 
-10. **First Quarter Moon (Wednesday after Laetare Sunday at 8:58 AM):**
-    - Cold and windy with rain, possibly thunderstorms in warmer regions. Cold and snowy weather with darkness on the Friday, Saturday, and Sunday of Mid-Lent, with rain on the following Tuesday.
+The new moon in April on the Wednesday after Mid-Lent at 5:44 AM will bring mixed, unstable weather with cold winds and dark air, with rain in many places.
 
-11. **New Moon in April (Wednesday after Mid-Lent at 5:44 AM):**
-    - Unstable and mixed weather with cold winds and dark skies, rain in many places.
+The beginning of the spring warmth, which is naturally warm and moist, during which, according to all physicians, the blood in humans is most active, occurs on the 10th of March at 7:16 PM. There will be sufficiently temperate days, but often strong and cold winds will occur, bringing rapid and cold moisture with rain or frost in many places, threatening damage to the crops and growth of the earth, particularly towards the west and south. Thunder will also be heard in some places with much lightning. The illnesses of most concern during this quarter will be headaches, eye pain, throat abscesses, swellings, scarlet fever, blood disorders, stomach and liver diseases from cold and excess eating and drinking, bloody flux of the bowels, genital diseases of both sexes, and severe, sharp fevers. In many places, the plague will be felt, and during this time, death will be quite dangerous for children and young people of both sexes. In many places, the fruits will be damaged by insects.
 
-12. **Start of Spring Warmth (According to calculations, beginning on March 10 at 7:16 PM):**
-    - Moderate days with strong, cold winds and rapid moisture, rain or frost in many places. Thunderstorms may occur in some regions.
+On St. Gregory's Day and the following days, expect gloomy, dark air, windy cold rain. Around the Monday after St. Gregory's Day, it will be damp with cold winds, but in warm places, thunder will be heard with lightning.
 
-13. **First Quarter Moon (Tuesday after St. Gregory's Day at 11:01 AM):**
-    - Unstable weather with cold, damp, and windy conditions. Reddish clouds will be seen. Cold and dark with winds and rain on Thursday after St. Gertrude's Day.
+The first quarter of the waxing moon on the Tuesday after St. Gregory's Day at 11:01 AM will bring unstable weather, cold, damp, and windy. In many places, reddish clouds will be seen. On the Thursday after St. Gertrude's Day, it will be cold, dark with winds, bringing dampness with rain in many places, with frost extending until the Saturday after.
 
-14. **Full Moon in April (Evening of the Annunciation at 11:48 PM):**
-    - Major destructive and unhealthy weather changes with strong winds, rain, sleet, and thunder. Dark and cold rain with strong winds on Easter Eve and Easter Day. Cloudy and rainy with winds on the Tuesday following Easter.
+The full moon in April, on the evening of the Annunciation at 11:48 PM, will bring great destructive and unhealthy changes in the air, with strong winds, rain, and sleet in many places, accompanied by thunder. On Easter Eve and Easter Day, expect dark air, cold gloomy rain with strong winds. On the Tuesday after Easter, it will be cloudy and rainy with wind.
 
-15. **First Quarter Moon (Thursday after Easter at 10:33 AM):**
-    - Unstable and mixed weather with strong, damp winds and clouds. Windy and cold with snow or rain on the Wednesday following Quasimodo Sunday. 
+The last quarter of the waning moon on the Thursday after Easter at 10:33 AM will bring unstable and mixed weather with strong damp winds, moving clouds, and foggy conditions. The Saturday after will be windy with cold moisture, bringing snow or rain. On the Wednesday after Quasimodo Sunday, expect wind with cold rain. In cold regions, severe cold and frost will be of concern around this time.
 
-16. **New Moon in May (Thursday after Quasimodo Sunday at 2:05 PM):**
-    - Sharp cold winds with rain and sleet, frost, and thunderstorms in some places. Rainy and windy on the Sunday of Misericordia Domini.
+The new moon in May on the Thursday after Quasimodo Sunday at 2:05 PM will bring sharp cold winds with rain and sleet, frost, and thunderstorms in some places. For three days after, there will be unusual weather. On Misericordia Sunday, there will be cold windy rain. Around St. Tiburtius' Day, many places will be damp.
 
-17. **First Quarter Moon (Thursday after St. Tiburtius' Day at 1:47 PM):**
-    - Strong winds and cold rains, with frost in some areas. Windy and rainy on the Sunday and Monday following St. George's Day.
+The first quarter of the waxing moon on the Thursday after St. Tiburtius' Day at 12:47 PM will bring strong winds in many places, with cold rain, frost in some areas, and rain extending to the Saturday after. On the Sunday and Monday after, expect mild wind bringing rain. On the evening of St. George’s Day, rain with sleet and wind will be experienced in some places, but it will barely clear up.
 
-18. **Full Moon in May (St. George's Day at 3:51 PM):**
-    - Cold air with dark clouds and unstable moisture. Changes in the weather with wind and rain on the Monday after St. Mark’s Day.
+The full moon in May on St. George's Day at 3:51 PM will bring cold air with unusual clouds and unstable moisture. Such conditions will prevail in many places on the Sunday after. On the Monday after St. Mark's Day, there will be a change in the air, at least through wind and rainy clouds, with thunder or severe storms in some places, extending in many places until St. Vitalis' Day.
 
-19. **First Quarter Moon (Day of St. Philip and St. James at 8:08 AM):**
-    - Cold rain with sleet and thunderstorms. Possible frost affecting crops. Windy and rainy on the Tuesday and Thursday after Holy Cross Day.
+The last quarter of the waning moon on the day of St. Philip and St. James at 8:08 AM will bring cold rain, sleet, and thunderstorms in some places. Around this time, crops of the earth will be somewhat at risk due to frost. On the Tuesday after Holy Cross Day, and the Thursday after, there will be wind bringing rain in many places, with thunder.
 
-20. **New Moon in June (Friday after Holy Cross Day at 9:55 AM):**
-    - Damp with cold winds and clouds, thunderstorms in warm regions. Strong wind and rain on the following Sunday and Tuesday.
+The new moon in June on the Friday after Holy Cross Day at 9:55 AM will bring damp conditions with cold winds and clouds in many places. In warm regions, thunder may be heard. The Sunday after will have strong wind and rain, possibly with thunder. Around the Tuesday after, there will be damp wind in many places. Around St. Servatius’ Day and the Friday after, expect dark air with winds, and rain in many places.
 
-21. **First Quarter Moon (Pentecost Eve at 3:46 AM):**
-    - Cold air with dark clouds and sharp winds, quick rains in many places. Stormy weather until Pentecost.
+The first quarter of the waxing moon on the eve of Pentecost at 3:46 AM will mostly bring cold air with clouds and sharp winds, causing quick rain in many places. It will be a heavy time, lasting until Pentecost. On the Thursday and Friday after, expect windy and rainy weather.
 
-22. **Full Moon in June (Trinity Sunday at 5:54 AM):**
-    - Cold, windy, and dark, mixed with moisture. Thunderstorms in warm places and frost in cold regions. Cloudy and windy on Corpus Christi Day.
+The full moon in June on Trinity Sunday at 5:54 AM will bring cold, windy, and dark weather mixed with moisture. In some places, thunder with lightning will be observed. Around Corpus Christi Day, expect clouds, wind, and rain with sleet. In warm regions, there will be thunder, and in cold regions, frost can be expected, lasting until the day after.
 
-23. **First Quarter Moon (Sunday after St. Urban's Day at 2:30 PM):**
-    - Unstable weather with clouds and wind, thunderstorms in many places. Cold rain with sleet and storms around St. Erasmus’ Day.
+The last quarter of the waning moon on the Sunday after St. Urban's Day at 2:30 PM will bring unstable weather with moving clouds, windy and rainy conditions. Thunder will be heard in many places. On St. Erasmus' Day and the following day, expect cold, rain, sleet, and stormy weather.
 
-24. **New Moon in July (Sunday after St. Boniface's Day at 6:18 AM):**
-    - Warm and cloudy with rain and storms in some places. Windy with rain and thunderstorms on the Wednesday and Thursday after St. Boniface's Day.
+The new moon in July on the Sunday after St. Boniface's Day at 6:18 AM will be somewhat warm with clouds, and in some places, stormy weather will bring rain. On the Wednesday and Thursday after St. Boniface's Day, expect moderate wind with rain, thunder with lightning, and stormy weather in many places.
 
-### Summer and Its New and Full Moons
+<sec10b>
+On Summer and its New and Full Moon Phases
 
-**Summer Season:**
-- The summer, which is naturally hot and dry (dominated by the choleric temperament), begins on June 12 at 6:21 AM. It will have moderate days with some warm ones, but it will be unstable with many violent winds, cloudbursts, and heavy rains, sometimes accompanied by thunderstorms and lightning. This quarter will not be without hot and severe ailments, hives, body aches, bladder and thigh pains, and eye issues. Many will experience pestilential diseases and sudden death.
+The summer, which is naturally hot and dry, begins on the 12th of June at 6:21 AM. It will be moderate with some warm days, yet unstable with many stormy winds, cloudbursts, and thus very wet with rain, sometimes with much thunder and lightning. This quarter will also not be without hot and severe ailments such as boils, body pains, bladder issues, thigh pains, and eye ailments. Many will feel pestilential diseases and sudden death.
 
-**First Quarter Moon (Sunday after St. Barnabas at 7:55 PM):**
-- Temperate days, but windy and damp in many places. Thursday and Friday following will bring changes, possibly with downpours and thunderstorms, and strong winds and severe weather in many areas. Rain with midday winds around the Sunday after St. Vitus.
+The first quarter of the waxing moon on the Sunday after St. Barnabas’ Day at 7:55 PM will bring temperate days, yet in many places it will be windy and damp. On the Thursday and Friday after, changes will occur, sometimes with heavy rain and thunder. In many places, stormy winds and severe thunderstorms will be found. Around the Sunday after St. Vitus’ Day, there will be rain with midday winds.
 
-**Full Moon in July (St. Alban's Day at 6:01 PM):**
-- Generally, this quarter will be prone to winds and dampness, with thunderstorms, lightning, and rain in many places. Strong winds and rain around St. John the Baptist's Day and the days following, with thunderstorms and severe weather in some areas.
+The full moon in June on St. Alban’s Day at 6:01 PM will generally incline towards wind and moisture, with thunder and lightning and rain in many places. Around St. John the Baptist’s Day and the days following, there will be strong wind with rain, and in many places, thunder and stormy weather will be heard.
 
-**Last Quarter Moon (Evening of St. Peter and St. Paul at 6:07 PM):**
-- Inclined to temperate weather with winds, occasional thunderstorms, hail, and heavy rain. Cloudy with strong winds on the Wednesday and Thursday following, especially with rain in many places. Strong winds and significant rain around the Feast of the Visitation of Mary, with thunderstorms and lightning in many places.
+The last quarter of the waning moon on the evening of St. Peter and St. Paul’s Day at 6:07 PM will incline towards temperate weather with winds, and during this time, thunder, hail with lightning, and heavy rain will occur. On the Wednesday and Thursday after, there will be clouds mixed with strong winds, mostly in many places, rain will follow. On the Feast of the Visitation of Mary or around that time, there will be strong wind with notable rain, and in many places, thunder and lightning.
 
-**New Moon in August (Monday after St. Ulrich at 4:02 PM):**
-- Unstable with winds, thunderstorms, and lightning, somewhat harmful, with large hail and heavy rain. Strong winds and rain on the Wednesday and Thursday following, possibly with hail, and thunderstorms extending to the Friday after.
+The new moon in August on the Monday after St. Ulric’s Day at 4:02 PM will be unstable with winds, thunder, and lightning will be somewhat harmful, with large hail and heavy rain. On the Wednesday and Thursday after, there will be strong wind and rain, possibly with hail. In many places, thunder and storms will be heard, extending to the Friday after.
 
-**First Quarter Moon (St. Margaret's Day at 12:35 PM):**
-- Unstable weather, but very inclined to strong winds with rain, thunderstorms, and severe weather in many places, lasting for three days.
+The first quarter of the waxing moon on St. Margaret’s Day at 35 minutes past noon will bring unstable weather, yet very inclined to strong winds with rain. In many places, thunder and storms will be observed, which will last for three days.
 
-**Full Moon in August (Evening of St. Mary Magdalene at 11:30 AM):**
-- Unstable weather with strong winds bringing rain, severe thunderstorms, and lightning. Stormy winds and thunderstorms on the Friday, Saturday, and Sunday following St. Mary Magdalene's Day, with heavy rain.
+The full moon in August on the evening of St. Mary Magdalene’s Day at 4:30 AM will bring unstable weather with strong winds bringing rain, with harmful thunderstorms, thunder, and lightning. On St. Mary Magdalene’s Day, Friday, Saturday, and Sunday after, there will be strong stormy winds. In many areas, thunder with lightning and other storms with heavy rain can be expected.
 
-**Last Quarter Moon (Tuesday after St. James at 10:08 AM):**
-- Temperate weather with heat, cloud movements, and wind, with rain and thunderstorms in many places, extending to the Thursday following. Humid winds on Thursday after St. Pantaleon.
+The last quarter of the waning moon on the Tuesday after St. James’ Day at 10:08 AM will be temperate in heat, with moving clouds and blowing winds, rain in many places, and thunder, extending until the Thursday after. The Thursday after St. Pantaleon’s Day will bring damp winds.
 
-**New Moon in September (Wednesday after St. Peter in Chains at 3:58 PM):**
-- Cloudy and cold with winds and rain, with frost in some places. Cloudy with strong winds around St. Sixtus' Day, with rain refreshing many areas. Mild winds with rain around St. Lawrence's Day.
+The new moon in September on the Wednesday after St. Peter in Chains at 3:58 AM will be foggy and cold with winds and rain, and frost in some places. On St. Sixtus’ Day or around that time, clouds mixed with strong winds will refresh with rain in many places. Around St. Lawrence’s Day, there will be moderate wind with rain.
 
-**First Quarter Moon (Thursday after St. Lawrence at 5:39 AM):**
-- A damp and cloudy atmosphere with hail and thunderstorms in many places. Stormy winds and rain with hail on the Saturday after St. Lawrence's Day, extending to the Tuesday following St. Mary's Day.
+The first quarter of the waxing moon on the Thursday after St. Lawrence’s Day at 5:39 AM will bring a dark dampness to the air, in some places with hail and thunder and other storms. On the Saturday after St. Lawrence’s Day or around that time, there will be rain with hail and stormy wind. Around the Tuesday after the Assumption of Mary, there will be moderate wind with rain without thunder, with lightning barely clearing up.
 
-**Full Moon in September (Thursday after the Assumption of Mary at 2:01 PM):**
-- Unstable weather with wind, moderate cold, and possibly rain and thunderstorms, extending to the Saturday following. Stormy winds and significant moisture on the evening of St. Bartholomew, lasting until the Wednesday following.
+The full moon in September on the Thursday after the Assumption of Mary at 2:01 PM will bring unstable weather with wind, temperate cold, and possibly rain and storms in many places, extending to the Saturday after. On the evening of St. Bartholomew’s Day, there will be notable moisture and stormy winds with storms, lasting until the Wednesday after.
 
-**Last Quarter Moon (Thursday after St. Bartholomew at 4:21 AM):**
-- Unstable weather with wind and moisture from rain. Windy with rain on the Friday after St. Bartholomew. Dark and damp with wind on the Monday after St. Augustine, extending to many areas on Thursday after St. Michael's Day.
+The last quarter of the waning moon on the Thursday after St. Bartholomew’s Day at 4:21 AM will bring unstable weather, sometimes wind with rain moisture. Around the Friday after St. Bartholomew’s Day, it will be windy with rain. On the Monday after St. Augustine’s Day or around that time, there will be dark, gloomy air, and in many places, it will be damp with winds. Around St. Giles’ Day, there will be a change in the air to cold and moderate moisture.
 
-**New Moon in October (Saturday after St. Remigius at 11:31 AM):**
-- Dark with rain and wind. Change to cloudy and rainy weather on the Tuesday and Wednesday after St. Francis, with damp and windy conditions on Thursday. Unstable with damp winds around St. Denis.
+The new moon in October on the Thursday after St. Giles’ Day at 6:34 AM will bring temperate air, sometimes inclined to moisture with strong blowing winds. On the Saturday after St. Giles’ Day or around that time, there will be strong and continuous wind, yet particularly dark and gloomy weather. On the Feast of the Nativity of Mary, it will be inclined to cold and moisture, with frost expected in some places.
 
-**First Quarter Moon (Sunday after St. Denis at 1:44 PM):**
-- Inclined to cold and dampness with clouds. Dark and cold with rain on the Tuesday and Wednesday after St. Denis, lasting until Friday.
+The first quarter of the waxing moon on the Friday after the Nativity of Mary at 10:14 AM will bring damp, cloudy air with moderate warmth, and the day after will be windy.
 
-**Full Moon in October (Sunday after St. Gall at 8:27 AM):**
-- Cold and cloudy with strong winds and rain, with snow in the mountains. Cloudy and windy with rain for the two days after St. Luke, possibly with thunderstorms and lightning.
+Autumn and its New and Full Moon Phases
 
-**Last Quarter Moon (Sunday after St. Ursula at 3:51 AM):**
-- Cloudy and cold with wind, followed by cold rain in the mountains, lasting until the Monday after. Strong wind with significant rain on the evening of St. Simon and St. Jude, possibly with thunderstorms.
+The autumn, naturally cold and dry, showing most prominently melancholy, begins on the 13th of September at 7:45 PM. It will bring unstable and cold weather with harsh winds, also damp with some frost, and in many places, persistent rain will be felt. People will experience swelling of the body, throat pains, rare bad ulcers, eye ailments, nasal discharge, ear ringing from the cold, severe and strong fevers. During this quarter, thunder and lightning will be observed, sometimes with fog. On the Feast of the Exaltation of the Holy Cross, the air will be dark, and in many places also damp with winds, lasting until the Thursday after.
 
-**Additional Notes:**
-- The inserted section or "13th new" moon (unnamed month) on All Saints' Day at 6:04 AM: Unstable weather with strong cold winds, very damp with rain, snow in many places, extending to the Thursday after.
-- First Quarter Moon (Tuesday after St. Leonard at 3:08 AM): Cold enough with strong winds and rain, snow in the mountains, extending to St. Martin's Day. Windy and damp on the Friday after.
-- Full Moon (Monday after St. Martin at 5:28 PM): Dark, cold, and windy with rain, lasting until the Wednesday after. Significant wind and rapid moisture on the evening and day of St. Elizabeth.
-- Last Quarter Moon (Monday after St. Elizabeth at 8:56 PM): Cold and dark with damp winds, rain or snow depending on the location, extending to the Thursday after. Cold with cloudy skies and wind with rain in the mountains on the Saturday after St. Catherine, lasting for the two days after.
+The full moon in October on the Friday after the Exaltation of the Holy Cross at 11:08 AM will incline towards moderate weather, yet windy. In some places, it will barely clear up without rainy moisture. On the evening of St. Matthew’s Day and the day after, expect dark times, cold rain, wind, and unstable storms. In some places, thunder may be heard.
 
-**New Moon in December (St. Andrew's Day at 12:44 PM):**
-- Cold enough with strong winds and moisture, snow or rain depending on the region. Cold and windy with dark clouds on St. Barbara's Day and the Sunday after.
+The last quarter of the waning moon on the Friday after St. Matthew’s Day at 2:02 PM will be damp with winds, also foggy and rough. On the Monday after St. Maurice’s Day, the air will be dark with winds, and in many places, rain will extend in many areas until the Thursday after St. Michael’s Day.
 
-**First Quarter Moon (Day of the Immaculate Conception at 2:18 PM):**
-- Cold and damp with winds. Dark clouds with winds and rapid moisture on the Saturday and Sunday after.
+The new moon in November on the Saturday after St. Remigius’ Day at 11:31 AM will begin with darkness, rain, and winds. On the Tuesday and Wednesday after St. Francis’ Day, there will be a change to dark air and rain. The Thursday after will be damp and windy. Around St. Dionysius’ Day, the weather will be unstable with damp winds.
 
-**Full Moon (Wednesday after St. Lucy at 9:43 AM):**
-- Transformation of the atmosphere to great cold and wind, with snow in many places. Dark and cold with moisture on the Saturday after. Damp and windy on St. Thomas' Day or near it.
+The first quarter of the waxing moon on the Sunday after St. Dionysius’ Day at 1:44 PM will incline towards cold and moisture with clouds. On the Tuesday and Wednesday after St. Dionysius’ Day, it will be dark and cold with rain, lasting in many places until the Friday.
 
-**Last Quarter Moon (Wednesday after St. Thomas at 4:29 PM):**
-- This quarter will act according to the nature of the season, cold and damp with rough winds. Cold with dark skies on St. Stephen's Day and the day after, with damp winds in many places. Unstable with cold winds and moisture on the Wednesday after.
+The full moon in November, during which there will be a lunar eclipse, on the Sunday after St. Gall’s Day at 8:27 AM will be sufficiently cold, gloomy with strong winds and rain, and snow in the mountains. On St. Luke’s Day and the two days after, the air will be gloomy with sharp, harsh winds, and in many places, rain. Thunder and lightning may be heard in some places.
 
-**New January (Thursday after Holy Innocents' Day at 6:02 AM):**
-- Frosty, with enough snow and wind, with cloudy skies.
+The last quarter of the waning moon on the Sunday after St. Ursula’s Day at 3:51 AM will be foggy and cold with blowing wind, after which cold rain will come. In the mountains, snow will occur, lasting until the Monday after. On the evening of St. Simon and St. Jude’s Day, there will be strong wind with notable rain. Thunder may be heard around this time in some places.
 
-Here end the future things indicated to us mortal humans by the course of the heavens, not that they must come as described here. Since the wise man rules over the stars, it is God Almighty who arranges and governs all things according to His divine will, to whom be praise, honor, and thanksgiving forever. Amen.
+The inserted or 13th new moon, without a month’s name, on All Saints’ Day at 6:04 AM will bring unstable weather with strong cold winds, very damp with rain, and snow in many places, extending in many places until the Thursday after.
 
-<end>
+The first quarter of the waxing moon on the Tuesday after St. Leonard’s Day at 3:08 AM will be sufficiently cold with strong winds and rain, and in the mountains and elsewhere, snow, extending in many places until St. Martin’s Day. The Friday after will be windy and damp.
+
+The full moon of the ungrateful month on the Monday after St. Martin’s Day at 5:28 AM will be gloomy, cold with damp winds, and lasting in many places until the Wednesday after. On the evening and day of St. Elizabeth, there will be notable wind with quick moisture.
+
+The last quarter of the waning moon on the Monday after St. Elizabeth’s Day at 8:56 AM will be cold and dark with damp winds, rain or snow depending on the location, extending until the Thursday after. The Saturday after St. Catherine’s Day will be cold with gloomy clouds and windy with rain. In the mountains, snow will occur, lasting for the next two days.
+
+The new moon in December on St. Andrew’s Day at 12:44 PM will be sufficiently cold, with strong wind and moisture, snow or rain depending on the location. On St. Barbara’s Day and the Sunday after, it will be cold and windy with gloomy clouds.
+
+The first quarter of the waxing moon on the Feast of the Immaculate Conception at 2:18 PM will be cold and damp for the time and windy. The Saturday and Sunday after will be dark clouds with winds and quick moisture.
+
+The full moon in December on the Wednesday after St. Lucy’s Day at 3:43 AM, and the Thursday after, will bring a change to great cold and also windy, and snow in some places. The Saturday after will be gloomy and cold with moisture. On St. Thomas’ Day or around that time, it will be damp and windy.
+
+The last quarter of the waning moon on the Wednesday after St. Thomas’ Day at 4:29 PM will act according to the time, cold and damp with rough winds. Around St. Stephen’s Day and the day after, it will be cold with a dark sky, and in many places, damp winds. The Wednesday after will be unstable with cold winds and moisture.
+
+The new moon in January on the Thursday after the Feast of the Holy Innocents at 6:02 AM will be frosty, with enough snow and wind introduced with gloomy clouds.
+
+Here end the future things shown to us mortal men by the course of the heavens, not that they must come as described here. When the wise man rules the stars, God the Almighty governs and arranges all things according to His divine will, to whom be praise, honor, and thanksgiving forever. Amen.
+
+From the library of the late D. E. A. W. Krauss
