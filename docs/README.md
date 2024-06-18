@@ -5,7 +5,7 @@ The 1529 Practica Teutsch by Anton Brelochs online
 
 [Digital edition workspace, at Transkribus Sites](https://app.transkribus.org/sites/brelochs1529/doc/2694510)
 
-Transkribus transcription: [raw](https://github.com/nericson/brelochs/blob/main/texts/01a_raw_transcription.txt) | [edited](https://github.com/nericson/brelochs/blob/main/texts/02a_edited_transcription.txt)
+Transkribus transcription: [raw](https://github.com/nericson/brelochs/blob/main/texts/01a_raw_transcription.txt) | [edited by NRE](https://github.com/nericson/brelochs/blob/main/texts/02a_edited_transcription.txt)
 
 ChatGPT 4o orthography: [of the raw transcription](https://github.com/nericson/brelochs/blob/main/texts/01b_raw_transcription_with_ai_orthography.txt) | [of the edited transcription](https://github.com/nericson/brelochs/blob/main/texts/02b_edited_transcription_with_ai_orthography) | [prompt](https://github.com/nericson/brelochs/blob/main/texts/00b_ai_orthography_prompt)
 
