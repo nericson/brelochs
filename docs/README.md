@@ -14,4 +14,18 @@ ChatGPT 4o translation: [of the raw transcription](https://github.com/nericson/b
 (Note: the ChatGPT output is only edited for formatting, not for accuracy or clarity!)
 
 ## Presentation Files
-x
+
+03. What is a digital edition?
+[Taylor Editions: Van der Freiheit eines Christenmenschen : a digital edition](https://editions.mml.ox.ac.uk/editions/freiheit-1520/)
+
+07. Practica Teutsch for 1529 by Anton Brelochs
+[University of Kiel catalog record[(https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=394315936)
+[*Printing and Prophecy* by Jonathan Green, open access](https://www.fulcrum.org/concern/monographs/tm70mv886)
+
+08. Practica Teutsch for 1529 by Anton Brelochs
+[VD16 listing](https://gateway-bayern.de/VD16+ZV+32815)
+
+10. AI-based transcription tools
+[Transkribus](https://www.transkribus.org/)
+[OCR4all](https://www.ocr4all.org/)
+
