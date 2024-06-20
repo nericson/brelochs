@@ -21,7 +21,7 @@ Slide 03. What is a digital edition?
 
 Slide 07. Practica Teutsch for 1529 by Anton Brelochs
 
-[University of Kiel catalog record[(https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=394315936)
+[University of Kiel catalog record](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=394315936)
 
 [*Printing and Prophecy* by Jonathan Green, open access](https://www.fulcrum.org/concern/monographs/tm70mv886)
 
