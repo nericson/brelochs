@@ -11,6 +11,10 @@ ChatGPT 4o orthography: [of the raw transcription](https://github.com/nericson/b
 
 ChatGPT 4o translation: [of the raw transcription](https://github.com/nericson/brelochs/blob/main/texts/01c_raw_transcription_with_ai_translation.md) / [of the edited transcription](https://github.com/nericson/brelochs/blob/main/texts/02c_edited_transcription_with_ai_translation.md) / [prompt](https://github.com/nericson/brelochs/blob/main/texts/00c_ai_translation_prompt)
 
+A [comparison]() of the edited transcription with ChatGPT 4o's orthographic update of the raw transcription, preface only
+
+A [comparison]() of ChatGPT 4o's translations of the raw transcription and the edited transcription, preface only
+
 (Note: the ChatGPT output is only edited for formatting, not for accuracy or clarity!)
 
 ## Presentation Files
