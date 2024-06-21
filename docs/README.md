@@ -15,21 +15,35 @@ ChatGPT 4o translation: [of the raw transcription](https://github.com/nericson/b
 
 ## Presentation Files
 
-Slide 03. What is a digital edition?
+### Slide 03. What is a digital edition?
+
+Example:
 
 [Taylor Editions: Van der Freiheit eines Christenmenschen : a digital edition](https://editions.mml.ox.ac.uk/editions/freiheit-1520/)
 
-Slide 07. Practica Teutsch for 1529 by Anton Brelochs
+Platforms:
+
+[PRISMS (by Huber Digital)](https://www.prisms.digital/)
+
+[Cambridge Digital Collection Platform](https://cambridge-collection.github.io/)
+
+[TEI Publisher](https://teipublisher.com/index.html)
+
+### Slide 07. Practica Teutsch for 1529 by Anton Brelochs
 
 [University of Kiel catalog record](https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=394315936)
 
 [*Printing and Prophecy* by Jonathan Green, open access](https://www.fulcrum.org/concern/monographs/tm70mv886)
 
-Slide 08. Practica Teutsch for 1529 by Anton Brelochs
+### Slide 08. Practica Teutsch for 1529 by Anton Brelochs
 
 [VD16 listing](https://gateway-bayern.de/VD16+ZV+32815)
 
-Slide 10. AI-based transcription tools
+[WLS copy hosted at Internet Archive](https://archive.org/details/brelochs-practica-1529)
+
+[WLS copy digital edition workspace](https://app.transkribus.org/sites/brelochs1529/doc/2694510)
+
+### Slide 10. AI-based transcription tools
 
 [Transkribus](https://www.transkribus.org/)
 
