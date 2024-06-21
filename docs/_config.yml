@@ -1,5 +1,6 @@
-title: AI and Astrology
-description: Producing a digital edition of the Practica Teutsch for 1529 by Anton Brelochs
+title: AI Meets Astrology
+description: Creating a Digital Edition of Anton Brelochs’s 1529 Practica with Transkribus and ChatGPT
+# description: Producing a digital edition of the Practica Teutsch for 1529 by Anton Brelochs
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
