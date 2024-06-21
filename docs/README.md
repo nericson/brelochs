@@ -17,7 +17,7 @@ A [comparison](https://github.com/nericson/brelochs/blob/main/comparisons/prefac
 
 (Note: the ChatGPT output is only edited for formatting, not for accuracy or clarity!)
 
-## Presentation Files
+## Presentation Links
 
 ### Slide 03. What is a digital edition?
 
