@@ -12,7 +12,7 @@ Transkribus transcription: [raw](https://github.com/nericson/brelochs/blob/main/
 
 ChatGPT 4o orthography: [of the raw transcription](https://github.com/nericson/brelochs/blob/main/texts/01b_raw_transcription_with_ai_orthography.txt) / [of the edited transcription](https://github.com/nericson/brelochs/blob/main/texts/02b_edited_transcription_with_ai_orthography) / [prompt](https://github.com/nericson/brelochs/blob/main/texts/00b_ai_orthography_prompt)
 
-ChatGPT 4o translation: [of the raw transcription](https://github.com/nericson/brelochs/blob/main/texts/01c_raw_transcription_with_ai_translation.md) / [**of the edited transcription**](https://github.com/nericson/brelochs/blob/main/texts/02c_edited_transcription_with_ai_translation.md) / [prompt](https://github.com/nericson/brelochs/blob/main/texts/00c_ai_translation_prompt)
+ChatGPT 4o **translation:** [of the raw transcription](https://github.com/nericson/brelochs/blob/main/texts/01c_raw_transcription_with_ai_translation.md) / [**of the edited transcription**](https://github.com/nericson/brelochs/blob/main/texts/02c_edited_transcription_with_ai_translation.md) / [prompt](https://github.com/nericson/brelochs/blob/main/texts/00c_ai_translation_prompt)
 
 A [comparison](https://github.com/nericson/brelochs/blob/main/comparisons/preface-compare-raw-orthography-to-edited-transcription.pdf) of the edited transcription with ChatGPT 4o's orthographic update of the raw transcription, preface only
 
