@@ -1,0 +1,13 @@
+key,year,file,pages,lines,uncertain,library,shelfmark,source,validation
+1528,1528,tei/brelochs-1528-preface.xml,2,62,7,"Augsburg, Staats- und Stadtbibliothek",4 LR 249#(Beibd. 7,https://www.digitale-sammlungen.de/en/view/bsb11217687,PASS: TEI All RELAX NG
+1529,1529,tei/brelochs-1529-preface.xml,2,69,1,Wisconsin Lutheran Seminary Library,BF1683 .B74 1529,https://archive.org/details/brelochs-practica-1529,PASS: TEI All RELAX NG
+1531,1531,tei/brelochs-1531-preface.xml,1,17,0,"Munich, Bayerische Staatsbibliothek","Res/4 Astr.p. 511,24",https://www.digitale-sammlungen.de/en/view/bsb10198677,PASS: TEI All RELAX NG
+1532,1532,tei/brelochs-1532-preface.xml,1,19,0,"Augsburg, Staats- und Stadtbibliothek",4 Kult 186 -137,https://www.digitale-sammlungen.de/en/view/bsb11216332,PASS: TEI All RELAX NG
+1535,1535,tei/brelochs-1535-preface.xml,1,27,0,"Munich, Bayerische Staatsbibliothek",Res/4 Astr.p. 90 h#Beibd.18,https://www.digitale-sammlungen.de/en/view/bsb00029075,PASS: TEI All RELAX NG
+1538,1538,tei/brelochs-1538-preface.xml,1,21,0,Heidelberg University Library,Cod. Pal. germ. 304,https://digi.ub.uni-heidelberg.de/diglit/cpg304/0092,PASS: TEI All RELAX NG
+1542,1542,tei/brelochs-1542-preface.xml,1,43,1,"Munich, Bayerische Staatsbibliothek","Res/4 Astr.p. 530,8",https://www.digitale-sammlungen.de/en/view/bsb10198954,PASS: TEI All RELAX NG
+1547,1547,tei/brelochs-1547-preface.xml,1,38,0,Kiel University Library,Cb 6871,https://schriftgut.sh/viewer/image/PPN881608165/2/,PASS: TEI All RELAX NG
+1557,1557,tei/brelochs-1557-preface.xml,2,37,0,Heidelberg University Library,Q 7518-2 RES,https://digi.ub.uni-heidelberg.de/diglit/brelochs1556/0003,PASS: TEI All RELAX NG
+1558,1558,tei/brelochs-1558-preface.xml,3,67,1,"Dresden, SLUB","Astron.518.s,misc.9",https://digital.slub-dresden.de/id484813064,PASS: TEI All RELAX NG
+1559,1559,tei/brelochs-1559-preface.xml,2,34,0,"Munich, Bayerische Staatsbibliothek",Res/4 Astr.p. 446#Beibd.19,https://www.digitale-sammlungen.de/en/view/bsb00026273,PASS: TEI All RELAX NG
+1535-Augsburg,1535,tei/brelochs-1535-Augsburg-preface.xml,1,27,0,"Augsburg, Staats- und Stadtbibliothek",4 Kult 186 -142,https://www.digitale-sammlungen.de/en/view/bsb11216337?page=4,PASS: TEI All RELAX NG

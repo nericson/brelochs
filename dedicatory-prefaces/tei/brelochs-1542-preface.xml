@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1542">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: dedicatory preface to the Practica for 1542</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted visual transcription and TEI encoding; first pass for scholarly review</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1: semi-diplomatic working transcription; not a critically established edition.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 24 October 2026. Historical text is public domain. Image rights and conditions remain those of the holding repositories; consult source links.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1542: dedicatory preface</title>
+          <date type="forecastYear" when="1542">1542</date>
+          <idno type="VD16">B 7419</idno>
+          <note>Munich, Bayerische Staatsbibliothek; shelfmark Res/4 Astr.p. 530,8. Leaves: A1v. Leaf designations inherited from the image collection; some are inferred.</note>
+          <ref target="https://www.digitale-sammlungen.de/en/view/bsb10198954">Digitized copy</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Semi-diplomatic first-pass transcription made by visual reading of the supplied page images. Original spelling, u/v and i/j usage, capitalization and punctuation are retained as read; long s and ordinary typographic ligatures are normalized. Superscript vowel forms are represented by Unicode diacritics where recognized. Word spacing and punctuation spacing are editorially regularized. Printed line-division signs are represented by hyphens or slashes; they are not automatically removed or joined. Abbreviation strokes are retained with combining tildes where recognized, without systematic expansion. Review abbreviation marks, diacritics and ambiguous letterforms against the images before linguistic analysis or quotation.</p>
+        <p>Every transcribed printed line begins with lb; page changes use pb linked to facsimile surfaces. Line numbers count transcribed dedication lines, excluding signatures, catchwords and surrounding main text. Paragraph divisions and heading/closer boundaries are editorial. Catchwords, leaf signatures, ornaments, stamps and later annotations are omitted. Text after the dedication is excluded except the eight-chapter statement printed before the signature in 1559. No modernization, translation or silent conjectural repair is intended. Uncertain readings are marked unclear; sic retains a conspicuous printed form. Unmarked text remains provisional.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Early New High German</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-10-24">Initial visual transcription, source linkage and XML validation. Independent human collation remains outstanding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="A1v" xml:id="surf-1542-1">
+      <graphic url="../images/1542_A1v_scan-6.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10198954_00006/full/full/0/default.jpg"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="de">
+    <body>
+      <div type="dedication">
+        <pb n="A1v" facs="#surf-1542-1"/>
+        <head><lb n="1" xml:id="line-1542-1-1"/>Den Vesten/Erbarn/Fürsichtigen/Ersamen vnd wey
+<lb n="2" xml:id="line-1542-1-2"/>sen/Stettmayster vnd Rathe der Statt Schwebischen Hall/meinen
+<lb n="3" xml:id="line-1542-1-3"/>günstigen gebietenden lieben Herren.
+</head>
+        <p><lb n="4" xml:id="line-1542-1-4"/>Vest/Erbar/Fürsichtig vnnd Weyse/ewer fürsichtigen weyßheyt/seyen mein
+<lb n="5" xml:id="line-1542-1-5"/>gantz willig geflissen dienst zůuor/Günstigen gebietenden lieben Herrẽ/Nach
+<lb n="6" xml:id="line-1542-1-6"/>dem wir durch tegliche erfarnuß erkündigen vnd sehen/das dise vnderste Welt
+<lb n="7" xml:id="line-1542-1-7"/>auch die menschen/vnuernünfftigen Thier/Stain/Kreüter/vnd deren gleyche
+<lb n="8" xml:id="line-1542-1-8"/>von dem gestirn vnd des hymels Lauffe geregiert werden/so ist es ye billichen/
+<lb n="9" xml:id="line-1542-1-9"/>das dise edle Kunst Astronomia/von andern Künsten angenum̃en/vnnd keins
+<lb n="10" xml:id="line-1542-1-10"/>(wie dann durch etliche neydige geschwetzige menschen offt vnd vil beschicht)
+<lb n="11" xml:id="line-1542-1-11"/>verachtet werde/Das aber wir menschenn von dem gestirn geregiert werden/
+<lb n="12" xml:id="line-1542-1-12"/>(ich schreybe hie allayn von der naygung vnd einfliessung des gstirn/vnd nit võ
+<lb n="13" xml:id="line-1542-1-13"/>der nötung oder bezwingung desselbigen/dieweil wir doch wol wissen/das ge
+<lb n="14" xml:id="line-1542-1-14"/>stirn alleyn naygt vnd nit nöttigt)bedarffe schlechten oder gar keiner bewerung
+<lb n="15" xml:id="line-1542-1-15"/>so wir mit sonderem fleyß die artte vnnd wesen/yetzo des/darnach eines andern
+<lb n="16" xml:id="line-1542-1-16"/>menschen/welcher geburt zeyt kundtbare/anschawen vnd erwegen/die selbenn
+<lb n="17" xml:id="line-1542-1-17"/>nach natur vnd naygung/dises oder ein andern jrrigen Sterns genaygt/Auch
+<lb n="18" xml:id="line-1542-1-18"/>so wir ansehen die Monsüchten/vnsinnigen menschen/welche ein zeyt mehr do
+<lb n="19" xml:id="line-1542-1-19"/>ben dann die andern/nach dem sich der Mon vnd andere Stern thůn bewegen
+<lb n="20" xml:id="line-1542-1-20"/>deren gleychen die kranckheyten vnd suchten sich bey den menschen meren oder
+<lb n="21" xml:id="line-1542-1-21"/>mindern/nach naygung vnd einfliessung des gestirns/welchs dann die Leerer
+<lb n="22" xml:id="line-1542-1-22"/>der Ertzney(so sie anderst solcher kunst des gestirns/wie dann Hipocrates vnd
+<lb n="23" xml:id="line-1542-1-23"/>Galenus dasselbig leeren vnd wöllen/erfarnuß haben)teglich befindenn/Auch
+<lb n="24" xml:id="line-1542-1-24"/>thůt sich die blůmen der wegwarten alle wegen/vnd den merere tayle wenden
+<lb n="25" xml:id="line-1542-1-25"/>nach der Sonnen.So man auch fraget alle Artzet vnd natürliche Meyster/<unclear>vrs</unclear>
+<lb n="26" xml:id="line-1542-1-26"/>die vrsach sey darumb der Magnet das eysen an sich ziehe/vñ der Smaragdus
+<lb n="27" xml:id="line-1542-1-27"/>in der vnkeüscheyt breche/sie nit leyden möge/Auch woher es kumme/das der
+<lb n="28" xml:id="line-1542-1-28"/>Turbit/Reubarbarum vnd vil andere kreüter/wurtzeln/samen/vnd deren ge
+<lb n="29" xml:id="line-1542-1-29"/>leychenn purgieren vnd treyben &amp;c.sagen sie nit das solchs darumb das sie kalt
+<lb n="30" xml:id="line-1542-1-30"/>warm/feücht oder trucken sein/beschehe/sonder das selbig durch die himlischen
+<lb n="31" xml:id="line-1542-1-31"/>krefften/die jnen eingegossen haben ein haimliche/vnns verborgne natur/dar-
+<lb n="32" xml:id="line-1542-1-32"/>durch sie sonderlichen wirckung haben(als Mesue bezeyget in dem bůch von <abbr>d̃</abbr>
+<lb n="33" xml:id="line-1542-1-33"/>tröstung der Ertzney)vrsach habe vnd beschehe.Dieweyl nun auß disem allem
+<lb n="34" xml:id="line-1542-1-34"/>gnůgsame abzůnemen/das ein yegklicher Artzet erfarnuß haben vnd wissen sol
+<lb n="35" xml:id="line-1542-1-35"/>die kunst des gestirns/als Hipocrates/Galenus/Rases/Guarinus leren vnd
+<lb n="36" xml:id="line-1542-1-36"/>wöllen/habe ich(wie wol der wenigst der selben)abermals altem brauch nach
+<lb n="37" xml:id="line-1542-1-37"/>E.F.W.zů vnderthenigem gefallen auß gemeltter kunst/ein Prognostica-
+<lb n="38" xml:id="line-1542-1-38"/>tion auff das kürzest zůsamen getragen/in der selbigen/was vns das gestirn in
+<lb n="39" xml:id="line-1542-1-39"/>dem künfftigen 1542.Jare/gůts vnd böses dröen sey/anzůzaygen/vnnd bitte
+<lb n="40" xml:id="line-1542-1-40"/>E.F.W.die selbigen also im besten anzůnemen vnd außzůlegen/vnd mich als
+<lb n="41" xml:id="line-1542-1-41"/>jren armen vnderthenigen Diener lassen befolhen sein. Geben zů Schwebi-
+<lb n="42" xml:id="line-1542-1-42"/>schen Hall am tag Vdalrici/Anno &amp;c.1541.
+</p>
+        <closer>
+          <signed><lb n="43" xml:id="line-1542-1-43"/>E.F.W.Gehorsamer Anthonius Brelochs der Ertzney Doctor.
+</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

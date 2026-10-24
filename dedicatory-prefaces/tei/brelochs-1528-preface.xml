@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1528">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: dedicatory preface to the Practica for 1528</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted visual transcription and TEI encoding; first pass for scholarly review</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1: semi-diplomatic working transcription; not a critically established edition.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 24 October 2026. Historical text is public domain. Image rights and conditions remain those of the holding repositories; consult source links.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1528: dedicatory preface</title>
+          <date type="forecastYear" when="1528">1528</date>
+          <idno type="VD16">B 7415</idno>
+          <note>Augsburg, Staats- und Stadtbibliothek; shelfmark 4 LR 249#(Beibd. 7. Leaves: A2r, A2v. Leaf designations inherited from the image collection; some are inferred.</note>
+          <ref target="https://www.digitale-sammlungen.de/en/view/bsb11217687">Digitized copy</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Semi-diplomatic first-pass transcription made by visual reading of the supplied page images. Original spelling, u/v and i/j usage, capitalization and punctuation are retained as read; long s and ordinary typographic ligatures are normalized. Superscript vowel forms are represented by Unicode diacritics where recognized. Word spacing and punctuation spacing are editorially regularized. Printed line-division signs are represented by hyphens or slashes; they are not automatically removed or joined. Abbreviation strokes are retained with combining tildes where recognized, without systematic expansion. Review abbreviation marks, diacritics and ambiguous letterforms against the images before linguistic analysis or quotation.</p>
+        <p>Every transcribed printed line begins with lb; page changes use pb linked to facsimile surfaces. Line numbers count transcribed dedication lines, excluding signatures, catchwords and surrounding main text. Paragraph divisions and heading/closer boundaries are editorial. Catchwords, leaf signatures, ornaments, stamps and later annotations are omitted. Text after the dedication is excluded except the eight-chapter statement printed before the signature in 1559. No modernization, translation or silent conjectural repair is intended. Uncertain readings are marked unclear; sic retains a conspicuous printed form. Unmarked text remains provisional.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Early New High German</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-10-24">Initial visual transcription, source linkage and XML validation. Independent human collation remains outstanding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="A2r" xml:id="surf-1528-1">
+      <graphic url="../images/1528_A2r_scan-3.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11217687_00003/full/full/0/default.jpg"/>
+    </surface>
+    <surface n="A2v" xml:id="surf-1528-2">
+      <graphic url="../images/1528_A2v_scan-4.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11217687_00004/full/full/0/default.jpg"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="de">
+    <body>
+      <div type="dedication">
+        <pb n="A2r" facs="#surf-1528-1"/>
+        <head><lb n="1" xml:id="line-1528-1-1"/>Den Vesten/Erberen/Fürsichttigen/Ersamen vnnd
+<lb n="2" xml:id="line-1528-1-2"/>weisen/Stetmaister vnd Rathe/der Stat Schwebischen
+<lb n="3" xml:id="line-1528-1-3"/>Hall/meinen günstigen gepiettenden lieben Herrn.
+</head>
+        <p><lb n="4" xml:id="line-1528-1-4"/>VEst/Erber fürsichtig vnd weyß. E.E.W. seyen
+<lb n="5" xml:id="line-1528-1-5"/>meyn gantz willig beflyssen dienst zůvor/günstigẽ gepiettendẽ lieben her
+<lb n="6" xml:id="line-1528-1-6"/>ren. E.E.W. ist vnuerborgen/das der Allmechtig ewig Got/hab inn der
+<lb n="7" xml:id="line-1528-1-7"/>warhait erschaffen den himel/Sunn vnd Mond sampt andern gestyrn/Vnnd
+<lb n="8" xml:id="line-1528-1-8"/>söllichs zů sonderlichem nutz der menschen/vnd diser vndersten welt/an wölchen
+<lb n="9" xml:id="line-1528-1-9"/>geschöpffen gefunden wirt/die zůkünftigkait bey den Creaturen diser sterblichen
+<lb n="10" xml:id="line-1528-1-10"/>welt/Dero halben der natürlich <unclear>Hauptlich</unclear> maister Aristoteles spricht/Dise vnn/
+<lb n="11" xml:id="line-1528-1-11"/>derste welt ist veraynt mit den öbersten Cörpern des himels/auff das all ir krafft
+<lb n="12" xml:id="line-1528-1-12"/>daruon regiert werd/Wölliches auch bezeugt Ptholomeus der hoch <unclear>geehrest</unclear>
+<lb n="13" xml:id="line-1528-1-13"/>in der Astronomei vilfeltigklichem/sprechendt/Diß vnnderste welt/ist dem ge/
+<lb n="14" xml:id="line-1528-1-14"/>stirn des himels vnnderworffen/darauß man mag haben erkundung grosser
+<lb n="15" xml:id="line-1528-1-15"/>zůkunfft/dero sachen so natürlichen geschehen sollen/die selbigen also gewyßli/
+<lb n="16" xml:id="line-1528-1-16"/>chen zůlernen/Dann durch die ordnung der himelischen cörper vnn ihrer vmb
+<lb n="17" xml:id="line-1528-1-17"/>weltzung erscheynt der götlich gewalt/weyßhait/vnd güttigkait/durch die öber
+<lb n="18" xml:id="line-1528-1-18"/>sten zů Regieren dise vnnderste yrdische cörper/Auch der kunigklich Prophet Da
+<lb n="19" xml:id="line-1528-1-19"/>uid inn seinem bůch der Psalm/des gleychen Plato der Philosophus/sprechen vñ
+<lb n="20" xml:id="line-1528-1-20"/>halten/das dise ding vns zů wyssen auß götlichem willen/sind geschriben inn
+<lb n="21" xml:id="line-1528-1-21"/>den himel/als ein bůch/Sollichs haltenn auch vestigklichen Damascenus/vnnd
+<lb n="22" xml:id="line-1528-1-22"/>Albertus der groß/sampt andern Christenlichen lerern sprechende/Gott der All/
+<lb n="23" xml:id="line-1528-1-23"/>mechtig hat gemacht den himel als ein haut odder bůch/Darinn alle geschrybt vñ
+<lb n="24" xml:id="line-1528-1-24"/>zůkünfftige ding/so natürlichen geschehen sollen in diser vnndersten welt geschry
+<lb n="25" xml:id="line-1528-1-25"/>ben seyn/Vnd dem menschen zůgelassen/wöllicher es lesen kan der mag es lesenn/
+<lb n="26" xml:id="line-1528-1-26"/>Vnnd sollichen eynfluß vnd zůnaygung der gestirn/kan man wol wyssen/durch
+<lb n="27" xml:id="line-1528-1-27"/>natürlich kunst der Astronomei/Darumb <unclear>gültlichen</unclear> vnd warhafftig zůglauben
+<lb n="28" xml:id="line-1528-1-28"/>ist/das Got der Allmechtig erstreckt hab in vil jare das leben den hailigen Vät
+<lb n="29" xml:id="line-1528-1-29"/>tern/nemlich Noe/Abraham/vnd andern/auff das sie die hohen vnd nutzlichen
+<lb n="30" xml:id="line-1528-1-30"/>kunst der Astronomey menschlichem geschlecht zů gůtt/gegründtlichem erkenn
+<lb n="31" xml:id="line-1528-1-31"/>möchten/Auch Ptholomeus Albumasar/Hermes/vnnd vil anndere hochgelerte
+<lb n="32" xml:id="line-1528-1-32"/>in diser kunst seyn begnad/Mit hoher natürlicher verstentnus/durch lang ge/
+<lb n="33" xml:id="line-1528-1-33"/>habte mühe vnnd arbait/zůerkundigen den waren lauff der gestirn/Planetenn
+<lb n="34" xml:id="line-1528-1-34"/>vnnd ihrer natur/Mit den zwelff steren vnd heußern an dem himel/Darinn/alle
+<lb n="35" xml:id="line-1528-1-35"/>geschicht vnnd zůkunfft diser nydern welt ist ein getruckt vnd begriffen/zů glück
+<lb n="36" xml:id="line-1528-1-36"/>seligkait/oder <unclear>zurstöligkait</unclear>/durch die selbigen heusser von einem zů dem andern
+<lb n="37" xml:id="line-1528-1-37"/>Auch durch die Planeten/so sie durch die vnbeweglichen stern lauffen/vnd yren
+<lb n="38" xml:id="line-1528-1-38"/>Aspecten bössen vnnd gůtten werdenn alle gefürt/Regiert vnnd gelaytet/<unclear>Yetzo</unclear>
+<lb n="39" xml:id="line-1528-1-39"/>zů dem gůtten vnnd der frölichhait/oder glückseligkait/Vnd dann zů dem bösen
+<lb n="40" xml:id="line-1528-1-40"/>als krieg/auffrůr/pestelentz/kranckhaiten/theurung vnd derogleichen/Auß dem
+<lb n="41" xml:id="line-1528-1-41"/>folget das sich der mensch eyn zeyt lang gesundt/glückselig vnd frölich/vnnd dye
+<lb n="42" xml:id="line-1528-1-42"/>andern zeyt kranck/trawrig/vnd mit grosser widerwertigkait entpfindt/Dises
+<lb n="43" xml:id="line-1528-1-43"/>grundts halben/hab ich auß gnad Gott des allmechtigen/ein Prognostication
+<lb n="44" xml:id="line-1528-1-44"/>so bey gemaynem volck Practica/genennet wirdt/Nit one sonderlichem fleyß/
+<lb n="45" xml:id="line-1528-1-45"/>zů ehren.E.E.W.vnnd zů nutz allem menschlichem geschlecht/gemacht vnnd
+<pb n="A2v" facs="#surf-1528-2"/><lb n="1" xml:id="line-1528-2-1"/>geschriben/Damit auff zůkünftig ding ein auffmercken zů habenn/ferlichayten
+<lb n="2" xml:id="line-1528-2-2"/>vnd derogleichen(so viel müglich)zůuerhütten/Auch zůkünftig vnnglück erdul/
+<lb n="3" xml:id="line-1528-2-3"/>den/das ander etwan können vermeyden/Welches müglich zůbeschehenn/Ptho/
+<lb n="4" xml:id="line-1528-2-4"/>lomeus in der Astronomia/der hochberümbst/inn dem Bůch der hundert sprüch
+<lb n="5" xml:id="line-1528-2-5"/>offenlich bezeugt sprechende/Der mensch kann vnnd mag viel böß auff erdtrich
+<lb n="6" xml:id="line-1528-2-6"/>hie/auß vnnd mit hillff der Astronomia verhündern/vnd viel schaden wenden bey
+<lb n="7" xml:id="line-1528-2-7"/>den menschẽ/nach dem einfluß der gestirnn/Welcher neygung vnnd einfluß/di/
+<lb n="8" xml:id="line-1528-2-8"/>ses kunfftigenn Jares Fünffzehenn hundertesten vnnd acht vnnd zwentzigsten/
+<lb n="9" xml:id="line-1528-2-9"/>auß Rate der erfarnesten diser kunst/ich hab/Nit das es von nöten sey allwegen
+<lb n="10" xml:id="line-1528-2-10"/>also zů beschehn/sonder zu eyner warnung/wollen offenbaren/nachvolgendts in
+<lb n="11" xml:id="line-1528-2-11"/>den truck auß zů spreyten geben/Darumb so bitt ich E.E.W.demütiglichen E.
+<lb n="12" xml:id="line-1528-2-12"/>E.W.wolle solch Judicium kurtzlichem begriffen vnnd gestelt E.E.W.zů sun/
+<lb n="13" xml:id="line-1528-2-13"/>drem wol gefallen/gütlichẽ von mir annemen/Dero ich mich vnerthenig dienst
+<lb n="14" xml:id="line-1528-2-14"/>lich vnnd gehorsam vnterworffenn/hiemit befilhe/Gebenn am.<unclear>xij.</unclear>tag des Hew/
+<lb n="15" xml:id="line-1528-2-15"/>monadts/Anno &amp;c.<unclear>xxvij.</unclear>
+</p>
+        <closer>
+          <signed><lb n="16" xml:id="line-1528-2-16"/>E.E.W.gehorsamer.
+<lb n="17" xml:id="line-1528-2-17"/>Anthonius Brelochs Doctor.
+</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

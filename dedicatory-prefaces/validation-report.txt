@@ -1,0 +1,17 @@
+All 12 TEI documents parsed and validated against the bundled TEI All RELAX NG schema.
+Schema source: https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng
+Retrieved 2026-10-24. SHA256: b0f115095ead2ccc6933aa3365c6f4a82cba3b2ec7eee7f76bb616d7a63b7e48
+This validates encoding structure, not transcription accuracy.
+
+tei/brelochs-1528-preface.xml: PASS: TEI All RELAX NG; 2 pages; 62 lines; 7 unclear readings
+tei/brelochs-1529-preface.xml: PASS: TEI All RELAX NG; 2 pages; 69 lines; 1 unclear readings
+tei/brelochs-1531-preface.xml: PASS: TEI All RELAX NG; 1 pages; 17 lines; 0 unclear readings
+tei/brelochs-1532-preface.xml: PASS: TEI All RELAX NG; 1 pages; 19 lines; 0 unclear readings
+tei/brelochs-1535-preface.xml: PASS: TEI All RELAX NG; 1 pages; 27 lines; 0 unclear readings
+tei/brelochs-1538-preface.xml: PASS: TEI All RELAX NG; 1 pages; 21 lines; 0 unclear readings
+tei/brelochs-1542-preface.xml: PASS: TEI All RELAX NG; 1 pages; 43 lines; 1 unclear readings
+tei/brelochs-1547-preface.xml: PASS: TEI All RELAX NG; 1 pages; 38 lines; 0 unclear readings
+tei/brelochs-1557-preface.xml: PASS: TEI All RELAX NG; 2 pages; 37 lines; 0 unclear readings
+tei/brelochs-1558-preface.xml: PASS: TEI All RELAX NG; 3 pages; 67 lines; 1 unclear readings
+tei/brelochs-1559-preface.xml: PASS: TEI All RELAX NG; 2 pages; 34 lines; 0 unclear readings
+tei/brelochs-1535-Augsburg-preface.xml: PASS: TEI All RELAX NG; 1 pages; 27 lines; 0 unclear readings

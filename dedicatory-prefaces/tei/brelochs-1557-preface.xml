@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1557">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: dedicatory preface to the Practica for 1557</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted visual transcription and TEI encoding; first pass for scholarly review</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1: semi-diplomatic working transcription; not a critically established edition.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 24 October 2026. Historical text is public domain. Image rights and conditions remain those of the holding repositories; consult source links.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1557: dedicatory preface</title>
+          <date type="forecastYear" when="1557">1557</date>
+          <idno type="VD16">ZV 34096</idno>
+          <note>Heidelberg University Library; shelfmark Q 7518-2 RES. Leaves: A2r, A2v. Leaf designations inherited from the image collection; some are inferred.</note>
+          <ref target="https://digi.ub.uni-heidelberg.de/diglit/brelochs1556/0003">Digitized copy</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Semi-diplomatic first-pass transcription made by visual reading of the supplied page images. Original spelling, u/v and i/j usage, capitalization and punctuation are retained as read; long s and ordinary typographic ligatures are normalized. Superscript vowel forms are represented by Unicode diacritics where recognized. Word spacing and punctuation spacing are editorially regularized. Printed line-division signs are represented by hyphens or slashes; they are not automatically removed or joined. Abbreviation strokes are retained with combining tildes where recognized, without systematic expansion. Review abbreviation marks, diacritics and ambiguous letterforms against the images before linguistic analysis or quotation.</p>
+        <p>Every transcribed printed line begins with lb; page changes use pb linked to facsimile surfaces. Line numbers count transcribed dedication lines, excluding signatures, catchwords and surrounding main text. Paragraph divisions and heading/closer boundaries are editorial. Catchwords, leaf signatures, ornaments, stamps and later annotations are omitted. Text after the dedication is excluded except the eight-chapter statement printed before the signature in 1559. No modernization, translation or silent conjectural repair is intended. Uncertain readings are marked unclear; sic retains a conspicuous printed form. Unmarked text remains provisional.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Early New High German</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-10-24">Initial visual transcription, source linkage and XML validation. Independent human collation remains outstanding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="A2r" xml:id="surf-1557-1">
+      <graphic url="../images/1557_A2r_scan-3.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/brelochs1556/3/00ac.jpg"/>
+    </surface>
+    <surface n="A2v" xml:id="surf-1557-2">
+      <graphic url="../images/1557_A2v_scan-4.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/brelochs1556/3/00ad.jpg"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="de">
+    <body>
+      <div type="dedication">
+        <pb n="A2r" facs="#surf-1557-1"/>
+        <head><lb n="1" xml:id="line-1557-1-1"/>Den Vesten/Erbaren/
+<lb n="2" xml:id="line-1557-1-2"/>Fürsichtigen/Ersamen/vnd Weysen Stet-
+<lb n="3" xml:id="line-1557-1-3"/>maystern/vnd Rathe der Löblichen des heyligen
+<lb n="4" xml:id="line-1557-1-4"/>Reichsstatt Schwäbischen Hall/meinen
+<lb n="5" xml:id="line-1557-1-5"/>günstigen vnd gebietenden
+<lb n="6" xml:id="line-1557-1-6"/>lieben Herrn.
+</head>
+        <p><lb n="7" xml:id="line-1557-1-7"/>VEst/Erbarn/Fürsichtigen/vnd Weise/
+<lb n="8" xml:id="line-1557-1-8"/>Ewern Fürsichtigen Weißheyten seyen mein gantz wil-
+<lb n="9" xml:id="line-1557-1-9"/>lige/vnd gefließne dienst zuuor. Günstigen/Gebietenden/lieben
+<lb n="10" xml:id="line-1557-1-10"/>Herrn/Nach dem Ptholomeus ein Lerer inn der Künste des ge-
+<lb n="11" xml:id="line-1557-1-11"/>stirns Hochberümpt/in dem Büchlein seiner hundert Sprüch/
+<lb n="12" xml:id="line-1557-1-12"/>anzeigt/vnd beschreibt/das die verenderung der Cörper/diser vn-
+<lb n="13" xml:id="line-1557-1-13"/>dersten Welt/jetzo zu disem/dann zu anderem/durch die vmb-
+<lb n="14" xml:id="line-1557-1-14"/>weltzung/vnd verenderung der himlischen Cörper geschehe/wie
+<lb n="15" xml:id="line-1557-1-15"/>wir dann solchs täglichen sehen/vnd jetzo etwan vil Jare erfaren
+<lb n="16" xml:id="line-1557-1-16"/>haben/das der Lauffe der siben irrigen Stern/auch anderer ge-
+<lb n="17" xml:id="line-1557-1-17"/>stirn verursacht haben manicherley/vnd grosse auffrure/hefftige
+<lb n="18" xml:id="line-1557-1-18"/>Kriege/schwere/vnd tödlichen seuchten/auch erschröckenliche/vnd
+<lb n="19" xml:id="line-1557-1-19"/>langwirige thewrung/vnnd aber solchs vor etlichen verschinen
+<lb n="20" xml:id="line-1557-1-20"/>Jaren/von vilen warnung weyse/gnugsame angezeigt/vnnd ge-
+<lb n="21" xml:id="line-1557-1-21"/>melt ist/hat doch solchs biß anher niemandt zu hertzen genommen/
+<lb n="22" xml:id="line-1557-1-22"/>sonder halsstarriger für vnd für worden/wie dann derengleychen
+<lb n="23" xml:id="line-1557-1-23"/>zu den zeyten der Propheten vil/vnd offt geschenhen ist/etc. Hier-
+<lb n="24" xml:id="line-1557-1-24"/>auff so habe ich abermals E.F.W.zu vnterthenigem gefallen/
+<lb n="25" xml:id="line-1557-1-25"/>meniglichen zu nutz/auch zu wolfart gemeiner Teutscher Nation/
+<lb n="26" xml:id="line-1557-1-26"/>mir fürgenommen zubeschreiben auff das kürtzest/in diser meiner
+<lb n="27" xml:id="line-1557-1-27"/>Prognostication/was vns das gestirn inn disem 1557.Jare/
+<lb n="28" xml:id="line-1557-1-28"/>guts/oder böses anzeygen/vnd dröwen sey/Vnd bitte E.F.W.
+<pb n="A2v" facs="#surf-1557-2"/><lb n="1" xml:id="line-1557-2-1"/>die selbigen in dem besten von mir anzunemen/auch außzulegen/
+<lb n="2" xml:id="line-1557-2-2"/>vnd mich als jren vnterthenigen Diener lassen befolhen sein.
+<lb n="3" xml:id="line-1557-2-3"/>Geben zu Schwäbischen Hall/an dem tage Medardi/den
+<lb n="4" xml:id="line-1557-2-4"/>achten des Brachmonats/Anno &amp;c.56.der mindern zale.
+</p>
+        <closer>
+          <signed><lb n="5" xml:id="line-1557-2-5"/>E.F.W.
+<lb n="6" xml:id="line-1557-2-6"/>Gehorsamer
+<lb n="7" xml:id="line-1557-2-7"/>Antonius Brel-
+<lb n="8" xml:id="line-1557-2-8"/>ochs der Artzney
+<lb n="9" xml:id="line-1557-2-9"/>Doctor.
+</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1559">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: dedicatory preface to the Practica for 1559</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted visual transcription and TEI encoding; first pass for scholarly review</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1: semi-diplomatic working transcription; not a critically established edition.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 24 October 2026. Historical text is public domain. Image rights and conditions remain those of the holding repositories; consult source links.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1559: dedicatory preface</title>
+          <date type="forecastYear" when="1559">1559</date>
+          <idno type="VD16">B 7424</idno>
+          <note>Munich, Bayerische Staatsbibliothek; shelfmark Res/4 Astr.p. 446#Beibd.19. Leaves: A1v, A2r. Leaf designations inherited from the image collection; some are inferred.</note>
+          <ref target="https://www.digitale-sammlungen.de/en/view/bsb00026273">Digitized copy</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Semi-diplomatic first-pass transcription made by visual reading of the supplied page images. Original spelling, u/v and i/j usage, capitalization and punctuation are retained as read; long s and ordinary typographic ligatures are normalized. Superscript vowel forms are represented by Unicode diacritics where recognized. Word spacing and punctuation spacing are editorially regularized. Printed line-division signs are represented by hyphens or slashes; they are not automatically removed or joined. Abbreviation strokes are retained with combining tildes where recognized, without systematic expansion. Review abbreviation marks, diacritics and ambiguous letterforms against the images before linguistic analysis or quotation.</p>
+        <p>Every transcribed printed line begins with lb; page changes use pb linked to facsimile surfaces. Line numbers count transcribed dedication lines, excluding signatures, catchwords and surrounding main text. Paragraph divisions and heading/closer boundaries are editorial. Catchwords, leaf signatures, ornaments, stamps and later annotations are omitted. Text after the dedication is excluded except the eight-chapter statement printed before the signature in 1559. No modernization, translation or silent conjectural repair is intended. Uncertain readings are marked unclear; sic retains a conspicuous printed form. Unmarked text remains provisional.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Early New High German</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-10-24">Initial visual transcription, source linkage and XML validation. Independent human collation remains outstanding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="A1v" xml:id="surf-1559-1">
+      <graphic url="../images/1559_A1v_scan-2.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026273_00002/full/full/0/default.jpg"/>
+    </surface>
+    <surface n="A2r" xml:id="surf-1559-2">
+      <graphic url="../images/1559_A2r_scan-3.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026273_00003/full/full/0/default.jpg"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="de">
+    <body>
+      <div type="dedication">
+        <pb n="A1v" facs="#surf-1559-1"/>
+        <head><lb n="1" xml:id="line-1559-1-1"/>Den Vesten/Erbaren/
+<lb n="2" xml:id="line-1559-1-2"/>Fürsichtigen/Ersamen vnnd Weysen/
+<lb n="3" xml:id="line-1559-1-3"/>Herrn Stetmaistern/vnnd Rathe/der Löb-
+<lb n="4" xml:id="line-1559-1-4"/>lichen des heiligen Reychs stat Schwä-
+<lb n="5" xml:id="line-1559-1-5"/>bischen Hall/meinen günstigen vnd
+<lb n="6" xml:id="line-1559-1-6"/>gebietenden Herrn.
+</head>
+        <p><lb n="7" xml:id="line-1559-1-7"/>VEste/Erbare/Fürsichtige/vnd Weyse/
+<lb n="8" xml:id="line-1559-1-8"/>Ewren Fürsichtigen Weyßheyten/seyen mein
+<lb n="9" xml:id="line-1559-1-9"/>gantz willige/vnnd gefliessene dienst zuuor/
+<lb n="10" xml:id="line-1559-1-10"/>Günstige liebe Herren/Auff das ich nicht abweyche/
+<lb n="11" xml:id="line-1559-1-11"/>von meinem alten gebrauche/vnd gewonheyt/so habe
+<lb n="12" xml:id="line-1559-1-12"/>ich mir abermals von den Lauffen/vmbweltzungen/
+<lb n="13" xml:id="line-1559-1-13"/>influentzen/vnd Stenden der Planeten/auch natür-
+<lb n="14" xml:id="line-1559-1-14"/>lichen neygungen der selbigen/vber das künfftige
+<lb n="15" xml:id="line-1559-1-15"/>M.D.Lix. Jare/nach meinem geringen verstand/
+<lb n="16" xml:id="line-1559-1-16"/>etwas zusetzen/vnnd zuschreyben fürgenommen/Das
+<lb n="17" xml:id="line-1559-1-17"/>selbig also in ein Prognostication auff das kürtzest ver-
+<lb n="18" xml:id="line-1559-1-18"/>fasset/zusammen getragen/eingezogen/vnd geordenet/
+<lb n="19" xml:id="line-1559-1-19"/>welche ich nach gewohnlicher weyse/Ewren Fürsich-
+<lb n="20" xml:id="line-1559-1-20"/>tigen Weißheyten vbergibe/vnnd heymstelle/Mit vn-
+<lb n="21" xml:id="line-1559-1-21"/>tertheniger bitte/E.F.E.W.wöllen dieselbigen also
+<lb n="22" xml:id="line-1559-1-22"/>günstigklichen von mir annemen/vnnd nach dem
+<lb n="23" xml:id="line-1559-1-23"/>besten außlegen/Auch mich/als jhren vnterthenigen/
+<pb n="A2r" facs="#surf-1559-2"/><lb n="1" xml:id="line-1559-2-1"/>willigen Diener/günstigklichen lassen befolhen sein/
+<lb n="2" xml:id="line-1559-2-2"/>Geben zu Schwäbischen Hall/am tag Georgij/den
+<lb n="3" xml:id="line-1559-2-3"/>drey vnd zweintzigsten des Monats Aprilis/Anno
+<lb n="4" xml:id="line-1559-2-4"/>M.D.LVIII.
+</p>
+        <p><lb n="5" xml:id="line-1559-2-5"/>Auff das nun diese meine Practica klerlicher
+<lb n="6" xml:id="line-1559-2-6"/>möge verstanden werden/hab ich sie inn
+<lb n="7" xml:id="line-1559-2-7"/>acht Capitel getheylet.
+</p>
+        <closer>
+          <signed><lb n="8" xml:id="line-1559-2-8"/>E.F.W.
+<lb n="9" xml:id="line-1559-2-9"/>Gehorsamer/
+<lb n="10" xml:id="line-1559-2-10"/>Anthonius Brell-
+<lb n="11" xml:id="line-1559-2-11"/>ochs Doctor.
+</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

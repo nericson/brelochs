@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1532">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: dedicatory preface to the Practica for 1532</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted visual transcription and TEI encoding; first pass for scholarly review</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1: semi-diplomatic working transcription; not a critically established edition.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 24 October 2026. Historical text is public domain. Image rights and conditions remain those of the holding repositories; consult source links.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1532: dedicatory preface</title>
+          <date type="forecastYear" when="1532">1532</date>
+          <note>Augsburg, Staats- und Stadtbibliothek; shelfmark 4 Kult 186 -137. Leaves: A1v. Leaf designations inherited from the image collection; some are inferred.</note>
+          <ref target="https://www.digitale-sammlungen.de/en/view/bsb11216332">Digitized copy</ref>
+          <note>VD16 identifier not established in the source image index.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Semi-diplomatic first-pass transcription made by visual reading of the supplied page images. Original spelling, u/v and i/j usage, capitalization and punctuation are retained as read; long s and ordinary typographic ligatures are normalized. Superscript vowel forms are represented by Unicode diacritics where recognized. Word spacing and punctuation spacing are editorially regularized. Printed line-division signs are represented by hyphens or slashes; they are not automatically removed or joined. Abbreviation strokes are retained with combining tildes where recognized, without systematic expansion. Review abbreviation marks, diacritics and ambiguous letterforms against the images before linguistic analysis or quotation.</p>
+        <p>Every transcribed printed line begins with lb; page changes use pb linked to facsimile surfaces. Line numbers count transcribed dedication lines, excluding signatures, catchwords and surrounding main text. Paragraph divisions and heading/closer boundaries are editorial. Catchwords, leaf signatures, ornaments, stamps and later annotations are omitted. Text after the dedication is excluded except the eight-chapter statement printed before the signature in 1559. No modernization, translation or silent conjectural repair is intended. Uncertain readings are marked unclear; sic retains a conspicuous printed form. Unmarked text remains provisional.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Early New High German</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-10-24">Initial visual transcription, source linkage and XML validation. Independent human collation remains outstanding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="A1v" xml:id="surf-1532-1">
+      <graphic url="../images/1532_A1v_scan-4.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb11216332_00004/full/full/0/default.jpg"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="de">
+    <body>
+      <div type="dedication">
+        <pb n="A1v" facs="#surf-1532-1"/>
+        <head><lb n="1" xml:id="line-1532-1-1"/>Den Erbern/Fürsichtigen/Ersamen vnd Weysen/
+<lb n="2" xml:id="line-1532-1-2"/>Stetmeyster vnd Rathe der Stat Schwebischenhall/
+<lb n="3" xml:id="line-1532-1-3"/>meinen günstigen lieben Herren.
+</head>
+        <p><lb n="4" xml:id="line-1532-1-4"/>ERbar/Fürsichtig/Ersame vnd Weyse/E.F.W.seyen mein
+<lb n="5" xml:id="line-1532-1-5"/>gantz willig geflissen dienst zuuor/günstigen lieben Herren/
+<lb n="6" xml:id="line-1532-1-6"/>Nach dem ich mir abermals hab fürgenum̃en/als vil mei-
+<lb n="7" xml:id="line-1532-1-7"/>ner kleinen verstentnuß müglich ist/zuoffenbaren/was vns des hy-
+<lb n="8" xml:id="line-1532-1-8"/>mels lauff des 1532 jares bezeygen sey/dasselbig in ein klein Progno
+<lb n="9" xml:id="line-1532-1-9"/>stication auff das kürtzest eingezogen/So waiß ich niemands an-
+<lb n="10" xml:id="line-1532-1-10"/>ders/dem ich solch Judiciũ billicher zu schreybe/dañ ewer E.F.W.
+<lb n="11" xml:id="line-1532-1-11"/>Darumb so bit ich die selbigen/wölle dise zukünftige ding/von mir
+<lb n="12" xml:id="line-1532-1-12"/>kürtzlichen also zusam̃en getragẽ/günstigklichen annemen/vñ nach
+<lb n="13" xml:id="line-1532-1-13"/>gewönlicher gütigkeyt außlegen/Auch mich als jren vnterthetigen/
+<lb n="14" xml:id="line-1532-1-14"/>willigen diener lassen befolhen sein/Datũ Suntags nach Bartho-
+<lb n="15" xml:id="line-1532-1-15"/>lomei/den 27 Augusti/Anno 1531.
+</p>
+        <closer>
+          <signed><lb n="16" xml:id="line-1532-1-16"/>E.F.W.
+<lb n="17" xml:id="line-1532-1-17"/>gehorsamer
+<lb n="18" xml:id="line-1532-1-18"/>Anthonius Brelochs
+<lb n="19" xml:id="line-1532-1-19"/>Doctor
+</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

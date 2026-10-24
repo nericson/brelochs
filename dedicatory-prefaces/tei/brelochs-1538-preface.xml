@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1538">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: dedicatory preface to the Practica for 1538</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted visual transcription and TEI encoding; first pass for scholarly review</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1: semi-diplomatic working transcription; not a critically established edition.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 24 October 2026. Historical text is public domain. Image rights and conditions remain those of the holding repositories; consult source links.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1538: dedicatory preface</title>
+          <date type="forecastYear" when="1538">1538</date>
+          <idno type="VD16">ZV 2417</idno>
+          <note>Heidelberg University Library; shelfmark Cod. Pal. germ. 304. Leaves: A1v (bound volume f. 40v). Leaf designations inherited from the image collection; some are inferred.</note>
+          <ref target="https://digi.ub.uni-heidelberg.de/diglit/cpg304/0092">Digitized copy</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Semi-diplomatic first-pass transcription made by visual reading of the supplied page images. Original spelling, u/v and i/j usage, capitalization and punctuation are retained as read; long s and ordinary typographic ligatures are normalized. Superscript vowel forms are represented by Unicode diacritics where recognized. Word spacing and punctuation spacing are editorially regularized. Printed line-division signs are represented by hyphens or slashes; they are not automatically removed or joined. Abbreviation strokes are retained with combining tildes where recognized, without systematic expansion. Review abbreviation marks, diacritics and ambiguous letterforms against the images before linguistic analysis or quotation.</p>
+        <p>Every transcribed printed line begins with lb; page changes use pb linked to facsimile surfaces. Line numbers count transcribed dedication lines, excluding signatures, catchwords and surrounding main text. Paragraph divisions and heading/closer boundaries are editorial. Catchwords, leaf signatures, ornaments, stamps and later annotations are omitted. Text after the dedication is excluded except the eight-chapter statement printed before the signature in 1559. No modernization, translation or silent conjectural repair is intended. Uncertain readings are marked unclear; sic retains a conspicuous printed form. Unmarked text remains provisional.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Early New High German</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-10-24">Initial visual transcription, source linkage and XML validation. Independent human collation remains outstanding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="A1v (bound volume f. 40v)" xml:id="surf-1538-1">
+      <graphic url="../images/1538_A1v_scan-40v.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://digi.ub.uni-heidelberg.de/diglitData/image/cpg304/4/040v.jpg"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="de">
+    <body>
+      <div type="dedication">
+        <pb n="A1v (bound volume f. 40v)" facs="#surf-1538-1"/>
+        <head><lb n="1" xml:id="line-1538-1-1"/>Den Vesten/Erbaren/Fürsichtigen/
+<lb n="2" xml:id="line-1538-1-2"/>Ersamen/vñ weysen/Stetmaister/vñ Ra-
+<lb n="3" xml:id="line-1538-1-3"/>the/der stat Schwebischen Hall/meinen
+<lb n="4" xml:id="line-1538-1-4"/>günstigen/gebietenden lieben Herren.
+</head>
+        <p><lb n="5" xml:id="line-1538-1-5"/>Vest/Erbar/Fürsichtig vnd Weyse/ewer Fürsich-
+<lb n="6" xml:id="line-1538-1-6"/>tigen weyßheit/seyen mein gantz willig geflissen dienst zuuor/Gün-
+<lb n="7" xml:id="line-1538-1-7"/>stigen/gebietenden lieben Herrn/Nach dem ich mir abermals für-
+<lb n="8" xml:id="line-1538-1-8"/>genum̃en habe/nach meiner klaynen verstentnuß/was vns des ge-
+<lb n="9" xml:id="line-1538-1-9"/>stirns einflüß/vnd des hymels geschicklichheyt/des 1538 Jares/
+<lb n="10" xml:id="line-1538-1-10"/>bedeuten vnd droen sey/zuoffenbaren dasselbig/Also in ein Prog-
+<lb n="11" xml:id="line-1538-1-11"/>nostication/auff das kürtzest verfasset vnd zusam̃en getragen/Wel-
+<lb n="12" xml:id="line-1538-1-12"/>che ich nach gewonlicher weyse E F W zuschreybe vnd vberant-
+<lb n="13" xml:id="line-1538-1-13"/>worte/mit vnderdienstlicher fleyssiger bitte/dieselben günstlichen
+<lb n="14" xml:id="line-1538-1-14"/>von mir anzunemen/vnd nach gewönlicher gütigkayt in dem
+<lb n="15" xml:id="line-1538-1-15"/>besten außlegen/Auch mich darbey als jren vnderthenigen/willi-
+<lb n="16" xml:id="line-1538-1-16"/>gen diener lassen befolhen sein/Geben am tag Margarethe/den
+<lb n="17" xml:id="line-1538-1-17"/>13 tag des Hewmonadts/Anno 1537.
+</p>
+        <closer>
+          <signed><lb n="18" xml:id="line-1538-1-18"/>E.F.W.
+<lb n="19" xml:id="line-1538-1-19"/>gehorsamer.
+<lb n="20" xml:id="line-1538-1-20"/>Anthon<abbr>ꝰ</abbr> Bre-
+<lb n="21" xml:id="line-1538-1-21"/>lochs Doctor.
+</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

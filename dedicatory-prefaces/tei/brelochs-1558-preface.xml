@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1558">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: dedicatory preface to the Practica for 1558</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted visual transcription and TEI encoding; first pass for scholarly review</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1: semi-diplomatic working transcription; not a critically established edition.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 24 October 2026. Historical text is public domain. Image rights and conditions remain those of the holding repositories; consult source links.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1558: dedicatory preface</title>
+          <date type="forecastYear" when="1558">1558</date>
+          <idno type="VD16">B 7423</idno>
+          <note>Dresden, SLUB; shelfmark Astron.518.s,misc.9. Leaves: A2r, A2v, A3r. Leaf designations inherited from the image collection; some are inferred.</note>
+          <ref target="https://digital.slub-dresden.de/id484813064">Digitized copy</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Semi-diplomatic first-pass transcription made by visual reading of the supplied page images. Original spelling, u/v and i/j usage, capitalization and punctuation are retained as read; long s and ordinary typographic ligatures are normalized. Superscript vowel forms are represented by Unicode diacritics where recognized. Word spacing and punctuation spacing are editorially regularized. Printed line-division signs are represented by hyphens or slashes; they are not automatically removed or joined. Abbreviation strokes are retained with combining tildes where recognized, without systematic expansion. Review abbreviation marks, diacritics and ambiguous letterforms against the images before linguistic analysis or quotation.</p>
+        <p>Every transcribed printed line begins with lb; page changes use pb linked to facsimile surfaces. Line numbers count transcribed dedication lines, excluding signatures, catchwords and surrounding main text. Paragraph divisions and heading/closer boundaries are editorial. Catchwords, leaf signatures, ornaments, stamps and later annotations are omitted. Text after the dedication is excluded except the eight-chapter statement printed before the signature in 1559. No modernization, translation or silent conjectural repair is intended. Uncertain readings are marked unclear; sic retains a conspicuous printed form. Unmarked text remains provisional.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Early New High German</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-10-24">Initial visual transcription, source linkage and XML validation. Independent human collation remains outstanding.</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="A2r" xml:id="surf-1558-1">
+      <graphic url="../images/1558_A2r_scan-5.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://digital.slub-dresden.de/data/kitodo/BrelPrac_484813064/BrelPrac_484813064_tif/jpegs/00000005.tif.original.jpg"/>
+    </surface>
+    <surface n="A2v" xml:id="surf-1558-2">
+      <graphic url="../images/1558_A2v_scan-6.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://digital.slub-dresden.de/data/kitodo/BrelPrac_484813064/BrelPrac_484813064_tif/jpegs/00000006.tif.original.jpg"/>
+    </surface>
+    <surface n="A3r" xml:id="surf-1558-3">
+      <graphic url="../images/1558_A3r_scan-7.jpg" mimeType="image/jpeg"/>
+      <graphic url="https://digital.slub-dresden.de/data/kitodo/BrelPrac_484813064/BrelPrac_484813064_tif/jpegs/00000007.tif.original.jpg"/>
+    </surface>
+  </facsimile>
+  <text xml:lang="de">
+    <body>
+      <div type="dedication">
+        <pb n="A2r" facs="#surf-1558-1"/>
+        <head><lb n="1" xml:id="line-1558-1-1"/>Den Vesten/Erbaren/
+<lb n="2" xml:id="line-1558-1-2"/>Fürsichtigen/Ersamen vnd Weysen Stät-
+<lb n="3" xml:id="line-1558-1-3"/>meystern/vnd Rathe der Löblichen des heyligen
+<lb n="4" xml:id="line-1558-1-4"/>Reychsstatt Schwäbischen Hall/meinen
+<lb n="5" xml:id="line-1558-1-5"/>günstigen vnnd gebietenden
+<lb n="6" xml:id="line-1558-1-6"/>lieben Herren.
+</head>
+        <p><lb n="7" xml:id="line-1558-1-7"/>VEst/Erbarn/Fürsichtigen/vnd Wey
+<lb n="8" xml:id="line-1558-1-8"/>se/Ewrn Fürsichtigen Weyßheiten seyen mein
+<lb n="9" xml:id="line-1558-1-9"/>gantz willige vnd geflißne dienst zuuor. Günstigen liebe<unclear>n</unclear>
+<lb n="10" xml:id="line-1558-1-10"/>Herrn/Nach dem die Himlischen krefften durch Götliche
+<lb n="11" xml:id="line-1558-1-11"/>ordnung erschaffen sein/welche auch nicht verhindert mö-
+<lb n="12" xml:id="line-1558-1-12"/>gen werden/dann das sie warhafftigklichen kommen vnd
+<lb n="13" xml:id="line-1558-1-13"/>erscheinen/das disem also sey/mag man mit fleiß mercken
+<lb n="14" xml:id="line-1558-1-14"/>Welcher auß disen jrdischẽ mage doch die täglichen be-
+<lb n="15" xml:id="line-1558-1-15"/>wegungen/vnd vmbwaltzungen des Himels verhindern?
+<lb n="16" xml:id="line-1558-1-16"/>Welcher jrdischer mensch hat so grosse macht/das er den
+<lb n="17" xml:id="line-1558-1-17"/>lauffe der Sonnen/wider die ersten bewegungen des Hi-
+<lb n="18" xml:id="line-1558-1-18"/>mels geschehen/möge keren vnd wenden in widergang zu
+<lb n="19" xml:id="line-1558-1-19"/>rück? Welcher möchte die leuff der andern planeten/zu et-
+<lb n="20" xml:id="line-1558-1-20"/>licher zeyt für sich gehende/zu etlicher zeit aber hintersich
+<lb n="21" xml:id="line-1558-1-21"/>gehende/in andere bewegungen verwandeln? Welcher
+<lb n="22" xml:id="line-1558-1-22"/>möcht solchen gewalt haben/so die Sonn vnd der Mond
+<lb n="23" xml:id="line-1558-1-23"/>in dem Trackenhaupt oder schwantz zusamen kem̃en/das
+<lb n="24" xml:id="line-1558-1-24"/>vns die Soñ jr liecht vnd schein nit verbürge/das er sol-
+<lb n="25" xml:id="line-1558-1-25"/>ches verbiete vnd verhindere? Welcher mensch ist so gros-
+<lb n="26" xml:id="line-1558-1-26"/>ser macht/das er die beschattung des Monds/so er in der
+<lb n="27" xml:id="line-1558-1-27"/>völlen ist beym Trackenhaupt oder schwantz/möcht hin-
+<lb n="28" xml:id="line-1558-1-28"/>dern? Warlichen niemands/dann Gott der Allmechtig
+<pb n="A2v" facs="#surf-1558-2"/><lb n="1" xml:id="line-1558-2-1"/>vnser Schöpffer allein. Diese ding sein die fůßtritte vn-
+<lb n="2" xml:id="line-1558-2-2"/>sers Erlösers/nach gezugnuß des heiligen lehrers Grego-
+<lb n="3" xml:id="line-1558-2-3"/>rij/welche so wirs sehen/nit allein sein krafft vnd macht/
+<lb n="4" xml:id="line-1558-2-4"/>sonder auch vil mer sein wundersame werck/weißheit/vñ
+<lb n="5" xml:id="line-1558-2-5"/>vnaußsprechliche güte vnd miltigkeit verwundern. War-
+<lb n="6" xml:id="line-1558-2-6"/>lichen sein es wunderbarliche werck/die edlen liechter Soñ
+<lb n="7" xml:id="line-1558-2-7"/>vnd Mond/mit den andern gestirnen nie vergebens an dẽ
+<lb n="8" xml:id="line-1558-2-8"/>Himel/durch Götliche erschöpffung gesetzt/das dise vn-
+<lb n="9" xml:id="line-1558-2-9"/>terste ding/durch anzeigung der öbersten stern/zu etlicher
+<lb n="10" xml:id="line-1558-2-10"/>zeit durch sterben/zu etlicher durch thewrunge/vnd aber
+<lb n="11" xml:id="line-1558-2-11"/>zu etlicher durch kriege/&amp;c.werden bewegt/vñ auch solchs
+<lb n="12" xml:id="line-1558-2-12"/>villeicht vil erschine/vnd offte/so nit ein widerwertige vr-
+<lb n="13" xml:id="line-1558-2-13"/>sach der öbersten Cörper zu zeiten solchen anzeigungen wi-
+<lb n="14" xml:id="line-1558-2-14"/>derstrebt/vñ sie vberwund Zugleicher weise/als der Mag
+<lb n="15" xml:id="line-1558-2-15"/>net allezeit zu jhm eysen ziehen thut/so er aber mit knoba-
+<lb n="16" xml:id="line-1558-2-16"/>lauchs saffte bestrichen wird/wird jm sein krafft entzogen.
+<lb n="17" xml:id="line-1558-2-17"/>Auch ein wunde eins Thiers faulen wurd/so man jr nit zu
+<lb n="18" xml:id="line-1558-2-18"/>hilff käm̃e mit salben vnd artzneyen/Also auch die Stern
+<lb n="19" xml:id="line-1558-2-19"/>manchmal erschröckliche zufell einfůren würden/so jnen
+<lb n="20" xml:id="line-1558-2-20"/>nit entgegen ein sterckere vnd krefftigere vrsach begegnet.
+<lb n="21" xml:id="line-1558-2-21"/>Hierumb die Schifleut auff dem Meer/sich allzeit nach dẽ
+<lb n="22" xml:id="line-1558-2-22"/>gestirn richten sein/auch die Ackerleut vnd Hirten in der
+<lb n="23" xml:id="line-1558-2-23"/>entpfengnuß des Viehes/auch sewunge vñ pflatzungẽ der
+<lb n="24" xml:id="line-1558-2-24"/>frücht/die geschickligkeit des Monds vñ Himels warne-
+<lb n="25" xml:id="line-1558-2-25"/>men/zuuermeidẽ/das sie nit von vnglücklichen vnd bösen
+<lb n="26" xml:id="line-1558-2-26"/>zufellen schaden entpfangen. Dañ als Ptholomeus anzey-
+<lb n="27" xml:id="line-1558-2-27"/>ge/Ein weyser Man viel böses/so durch das gestirn zu-
+<lb n="28" xml:id="line-1558-2-28"/>künfftig were/verhinderen mage/so er die Natur vnnd
+<lb n="29" xml:id="line-1558-2-29"/>Eygenschafft der Stern erkundiget. Auff solches habe
+<lb n="30" xml:id="line-1558-2-30"/>ich abermals mir fürgenommen ein Prognostication zu-
+<lb n="31" xml:id="line-1558-2-31"/>ordnen/auff das künfftige Jare/nach dem kürtsten/da-
+<lb n="32" xml:id="line-1558-2-32"/>rinnen anzuzeygen/was vns die Gestirn guts oder böß
+<lb n="33" xml:id="line-1558-2-33"/>in demselbigen anzeygen sein/nach dem lauff der nature.
+<pb n="A3r" facs="#surf-1558-3"/><lb n="1" xml:id="line-1558-3-1"/>Geben zu Schwäbischen Hall/am tage Johannis des
+<lb n="2" xml:id="line-1558-3-2"/>Tauffers/Anno.1557.
+</p>
+        <closer>
+          <signed><lb n="3" xml:id="line-1558-3-3"/>E.F.W.
+<lb n="4" xml:id="line-1558-3-4"/>Gehorsamer
+<lb n="5" xml:id="line-1558-3-5"/>Anthonius Brelochs
+<lb n="6" xml:id="line-1558-3-6"/>Doctor.
+</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
