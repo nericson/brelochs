@@ -46,3 +46,7 @@ Page images are included unchanged from the previous image package. Historical p
 TEI schema source: https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng
 
 To validate an edited XML file, use its `xml-model` association with the bundled schema. Keep the `tei`, `images`, and `schema` directories together so relative references continue to resolve.
+
+## Comparative research
+
+See [analysis/REPORT.md](analysis/REPORT.md) for an exploratory study of changing defensive strategies, implied criticism, textual reuse and the missing 1548 preface. The [analysis directory](analysis/) includes passage-level coding and reproducible evidence tables.
