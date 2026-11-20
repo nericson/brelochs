@@ -49,7 +49,7 @@ To validate an edited XML file, use its `xml-model` association with the bundled
 
 ## Comparative research
 
-See [analysis/REPORT.md](analysis/REPORT.md) for an exploratory study of changing defensive strategies, implied criticism, textual reuse and the missing 1548 preface. The [analysis directory](analysis/) includes passage-level coding and reproducible evidence tables.
+See [analysis/HYPOTHESIS-TEST.md](analysis/HYPOTHESIS-TEST.md) for the completed comparative hypothesis test and [analysis/REPORT.md](analysis/REPORT.md) for the initial exploratory study of changing defensive strategies, implied criticism, textual reuse and the missing 1548 preface. The [analysis directory](analysis/) includes passage-level coding and reproducible evidence tables.
 
 ## English translations
 

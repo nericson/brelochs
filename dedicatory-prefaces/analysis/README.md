@@ -1,6 +1,6 @@
 # Comparative analysis of the dedicatory prefaces
 
-Start with [REPORT.md](REPORT.md). This is an exploratory, single-reader study of changing defensive strategies and implied criticism, not an independently reviewed historical conclusion.
+Start with the [completed hypothesis test and methodological reassessment](HYPOTHESIS-TEST.md), updated November 20, 2026. [REPORT.md](REPORT.md) preserves the initial annual readings and 25-unit analysis. This is an exploratory, single-reader study of changing defensive strategies and implied criticism, not an independently reviewed historical conclusion.
 
 ## Reproduce and audit
 
@@ -25,3 +25,7 @@ A developed argument requires a reason for legitimacy, causal knowledge, utility
 All twelve TEI texts were read; nine argument-bearing images were visually checked during this study (listed in the report). These checks support the thematic reading but are not a new full collation. The original working transcriptions retain their first-pass status and uncertainties. The 1548 lead is explicitly external and uncoded.
 
 No remote publication is implied by the presence of these local files. The original report and transcription set were synchronized on GitHub. The 1548 follow-up and English translations are subsequent additions; publication should be checked against the repository history.
+
+## November reassessment
+
+[HYPOTHESIS-TEST.md](HYPOTHESIS-TEST.md) develops the method and findings with the complete English translations. [implied-objections.csv](implied-objections.csv) distinguishes authorial form, critic attribution and inference limits in ten records. Regenerate this register with `python3 build_polemic_register.py`. [review-log.md](review-log.md) documents two additional primary-text AI readings and the resulting refinements; their source comparisons are retained in [reviews/](reviews/). No independent human corroboration or statistical inter-rater reliability is claimed.

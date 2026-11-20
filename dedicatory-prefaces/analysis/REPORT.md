@@ -2,6 +2,8 @@
 
 Working research report • 24 October 2026 • AI-assisted, single-reader exploratory analysis
 
+For the November 20 reassessment using the complete translations, explicit objection register and additional AI readings, see [HYPOTHESIS-TEST.md](HYPOTHESIS-TEST.md). The original findings and coding below are retained for comparison.
+
 **Finding:** The retrieved prefaces support a change in the selection and elaboration of Brelochs’s defensive arguments. They do **not yet establish a chronological change in the actual objections made by his critics**. The strongest model is a recurring apologetic repertoire, deployed differently in different years, rather than a succession of discrete controversies. This qualified result makes the proposed investigation worth pursuing, especially through the missing 1548 preface and independently surviving criticism.
 
 This report analyzes all eleven distinct annual dedication texts in the existing collection. The second 1535 witness is treated as corroborating copy evidence, not a twelfth independent observation. No primary text for 1548 was retrieved or coded. References below identify the forecast year, leaf and transcribed line numbers; these correspond to the `xml:id` values in the adjacent TEI. Dates of dedication are generally earlier than forecast years. English renderings are working translations; ellipses and joined line-break words are editorial.
