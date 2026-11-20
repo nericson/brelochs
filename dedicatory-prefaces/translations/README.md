@@ -1,5 +1,7 @@
 # English translations of the dedicatory prefaces
 
+The [1533 French reader’s address and English translation](../comparanda/1533-geneva/README.md) supplement these German dedicatory translations.
+
 Version 0.1 • November 20, 2026 • Complete scholarly working translations, AI-assisted and checked against the German transcriptions
 
 Twelve witness-specific translations cover **eleven forecast years**, including the alternate Augsburg copy of 1535. Each is available as readable Markdown and TEI P5 XML. The alternate copy has the same translated wording, with its own source references. The unretrieved 1548 dedication is outside this translation set.

@@ -2,7 +2,11 @@
 
 Version 0.1 • 24 October 2026 • First-pass visual transcriptions for scholarly review
 
-## Coverage
+## Expanded census and analysis
+
+The [forecast-year census](census/README.md) documents 26 years. The [Geneva 1533 dossier](comparanda/1533-geneva/README.md) adds the French address, facsimiles, TEI and English translation. The [revised polemic study](analysis/CENSUS-REASSESSMENT.md) compares it with the German dedications below.
+
+## German dedication corpus
 
 Eleven forecast years: 1528, 1529, 1531, 1532, 1535, 1538, 1542, 1547, 1557, 1558, 1559. There are **12 independent TEI documents**: one per year, plus the alternate Augsburg copy of 1535. The latter appears to reproduce the same setting and text, not another distinct dedication or edition. It was compared visually with the primary Munich image and retains separate copy metadata.
 

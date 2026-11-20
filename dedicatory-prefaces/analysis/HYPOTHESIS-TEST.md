@@ -2,6 +2,8 @@
 
 Method and completed comparative study • November 20, 2026 • Reassessment with the complete working translations
 
+The [subsequent census and reassessment](CENSUS-REASSESSMENT.md) tests this German-only comparison against the newly included 1533 French address.
+
 **Result.** The retrieved prefaces show a changing selection and elaboration of problems that astrology must answer. They offer weaker evidence that the criticisms actually voiced by contemporaries changed. The most defensible historical argument is about **changing apologetic emphasis within a continuing repertoire**, with the chronology of external criticism still to be established.
 
 This study tests the proposal that criticism can be reconstructed through implied polemic. It does not assume that an author's imagined opponent is identical to a historical critic. The findings support the method's usefulness while identifying which historical conclusions this particular corpus can sustain.

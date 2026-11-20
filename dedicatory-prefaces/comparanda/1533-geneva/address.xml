@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-geneva-1533">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>Antoine Brelochs to the reader, forecast for 1533</title><author>Anton Brelochs (attributed in the French printing)</author><respStmt><resp>Working transcription and English translation prepared with AI assistance for the Brelochs project</resp><name>Brelochs project</name></respStmt></titleStmt>
+      <publicationStmt><p>Brelochs project, 20 November 2026. Working edition.</p></publicationStmt>
+      <sourceDesc><bibl><author>Anton Brelochs</author>, <title>Practique ou pronostication nouvelle Dallemaigne, et almanach véritable</title>. [Geneva: Gabriel Pomar, 1532]. Forecast year 1533. Bibliothèque de Genève, Bsa 46 (catalogue also lists Cth 2767), GLN 5819, <ref target="https://doi.org/10.3931/e-rara-7011">digitized exemplar</ref>. Leaf [A1]v, image [6].</bibl></sourceDesc>
+    </fileDesc>
+    <encodingDesc><editorialDecl><p>Visually transcribed from the reconstructed Geneva exemplar. Numbering includes the heading. Abbreviations are expanded, long s normalized, and the ampersand retained. Capitals, spacing and punctuation are semi-diplomatic. Original line breaks are retained. The letterforms at lines 6 and 13–14 warrant further checking. Antal Lökkös, “Pronostication inconnue dans la reliure d’un missel,” Genava n.s. 33 (1985), text pp. 70–71, supports the uncertain readings around Ptolemy and the completion of the damaged farewell. The translation follows sense across line breaks. The eclipse rubric below the address begins a separate text.</p></editorialDecl></encodingDesc>
+  </teiHeader>
+  <facsimile><surface xml:id="s-a1r" n="[A1]r"><graphic url="title-A1r.jpg"/><graphic url="https://www.e-rara.ch/gep_g/content/zoom/4790534"/></surface><surface xml:id="s-a1v" n="[A1]v"><graphic url="address-A1v.jpg"/><graphic url="https://www.e-rara.ch/gep_g/content/zoom/4790535"/></surface></facsimile>
+  <text><body><div type="readerAddress" xml:lang="frm"><pb n="[A1]v" facs="#s-a1v"/>
+    <head><lb n="1" xml:id="fr1533-l01"/>¶ Anthoine Brelochs au Lecteur salut.</head>
+    <p><lb n="2" xml:id="fr1533-l02"/>Ie ne me puys asses emeruellier des entendemens et cogitations
+<lb n="3" xml:id="fr1533-l03"/>des hommes qui sont a present de nostre temps tombez en si grande
+<lb n="4" xml:id="fr1533-l04"/>ignorance. Lesqueulx ayment mieulx songier &amp; maistre leur cueur &amp; en-
+<lb n="5" xml:id="fr1533-l05"/>tendement aux chouses de sa bas que aux chouses celestes. Certes nous
+<lb n="6" xml:id="fr1533-l06"/>voyons lyre de dieu contre nous. Les chouses celestes <unclear>muees</unclear>. Et les
+<lb n="7" xml:id="fr1533-l07"/>entendemens des hommes sortir hors de leurs sans. Se elleuent comme in-
+<lb n="8" xml:id="fr1533-l08"/>prudens &amp; enrages a lencontre de nous. Se non obstant nous ne voulons
+<lb n="9" xml:id="fr1533-l09"/>corriger &amp; emender lentendement &amp; conseil de nous predecesseurs : mais
+<lb n="10" xml:id="fr1533-l10"/>plus tost voullons donner lieu &amp; place aux inclinations celestes: ayans
+<lb n="11" xml:id="fr1533-l11"/>force &amp; vigueur en nous: ne demandant point la grace &amp; ayde de dieu:
+<lb n="12" xml:id="fr1533-l12"/>iusques a ce que nous voyons nous &amp; nos biens par nous ennemys
+<lb n="13" xml:id="fr1533-l13"/>estre mys a neant. Mais escoute, ie te <unclear>prie</unclear>. Cestuy <unclear>esnicque</unclear> Tholomee
+<lb n="14" xml:id="fr1533-l14"/>cest a scauoyr prince des astrologues <unclear>en sont almagestu</unclear>. Disant lhom-
+<lb n="15" xml:id="fr1533-l15"/>me sage sera seigneur &amp; dominateur des estoylles &amp; planetes. Certai-
+<lb n="16" xml:id="fr1533-l16"/>nement le medicin prudent &amp; expert aux signes du ciel cognoyssant le
+<lb n="17" xml:id="fr1533-l17"/>sang chault &amp; sec bouillant au corps humain par les signes de courroux
+<lb n="18" xml:id="fr1533-l18"/>Ne rendra il point tout incontinent la qualité dun tel corps en froideure
+<lb n="19" xml:id="fr1533-l19"/>&amp; humidité: affin quil naye ne puisse exercer sa force Mais plus toust
+<lb n="20" xml:id="fr1533-l20"/>quil y aye moderation conpetente: en laqueulle consiste toute nostre santé.
+<lb n="21" xml:id="fr1533-l21"/>Et aussi pareillement la fureur des aduersayres: par la cautelle &amp; sages
+<lb n="22" xml:id="fr1533-l22"/>se facillement ce peult appaiser. Ainsi que vng chascun aux chouses predi
+<lb n="23" xml:id="fr1533-l23"/>ctes peult facilement cognoistre: combien quil soit de gros entendement.
+<lb n="24" xml:id="fr1533-l24"/>Comme quil soit ainsi que ces chouses soyent telles. Esmeu plus de pi
+<lb n="25" xml:id="fr1533-l25"/>tie que de vaine gloyre en vers la chouse publique. Je ay voulu retirer
+<lb n="26" xml:id="fr1533-l26"/>aulcunes chouses obscures de la doctrine &amp; canons des scauans Astro
+<lb n="27" xml:id="fr1533-l27"/>logiens. Lesquelles chouses clerement nous demonstrent comment ceste
+<lb n="28" xml:id="fr1533-l28"/>annee de lan. M.v.et.xxxiij. Les vaysseaulx fragilles de dieu seront
+<lb n="29" xml:id="fr1533-l29"/>menes par diuerses motions cellestes. Ausquelz maulx preueux par la
+<lb n="30" xml:id="fr1533-l30"/>prudence humaine euiter nous pouuons facillement ala louuange de dieu
+<lb n="31" xml:id="fr1533-l31"/>La quelle ie desire du profond de mon cueur a tous vrays chrestiens.
+<lb n="32" xml:id="fr1533-l32"/>Je prie recepuoir de bon cueur ceste pronostication en briefues parol-
+<lb n="33" xml:id="fr1533-l33"/>les redigee. La prenant &amp; interpretant de tel cueur que ie ley escripte vous
+<lb n="34" xml:id="fr1533-l34"/>dis<supplied reason="illegible">ant a</supplied> Dieu.</p>
+  </div>
+  <div type="translation" xml:lang="en"><head>Working English translation</head>
+    <p corresp="#fr1533-l01" n="1">Antoine Brelochs sends greetings to the reader.</p>
+    <p corresp="#fr1533-l02 #fr1533-l08" n="2–8">I cannot marvel enough at the minds and thoughts of the people of our day, fallen into such great ignorance. They would sooner dwell on things down here and set their hearts and minds on them than on heavenly things. Surely we see God’s anger against us, the heavens in motion, and people’s minds going out of their senses. They rise against us like reckless people in a rage.</p>
+    <p corresp="#fr1533-l08 #fr1533-l13" n="8–13">Even so, we are unwilling to correct and amend the understanding and counsel of our predecessors. We would sooner give free rein to the inclinations of the heavens, which have force and vigor in us, asking none of God’s grace or help until we see ourselves and our possessions brought to nothing by our enemies.</p>
+    <p corresp="#fr1533-l13 #fr1533-l15" n="13–15">But listen, I pray you. This Ptolemy [epithet unclear], that is, the prince of astrologers, says in his Almagest [reading uncertain] that the wise man will be lord and master of the stars and planets.</p>
+    <p corresp="#fr1533-l15 #fr1533-l20" n="15–20">Surely a prudent physician skilled in the signs of the heavens recognizes, from signs of anger, hot and dry blood boiling in the human body. Will he not immediately change the quality of such a body to coldness and moisture, so that this force can no longer exert itself and there can instead be a proper balance, in which all our health consists?</p>
+    <p corresp="#fr1533-l21 #fr1533-l23" n="21–23">In the same way the fury of adversaries can readily be appeased through circumspection and wisdom. Anyone, however slow of understanding, can readily recognize this from what has been said.</p>
+    <p corresp="#fr1533-l24 #fr1533-l31" n="24–31">These things being so, moved more by pity for the commonwealth than by vainglory, I have wished to draw out some obscure matters from the teachings and rules of learned astrologers. These show us clearly how, in this year 1533, God’s fragile vessels will be led by the various motions of the heavens. Once these evils are foreseen, we can readily avoid them through human prudence, to the praise of God. Such praise I desire from the depths of my heart for all true Christians.</p>
+    <p corresp="#fr1533-l32 #fr1533-l34" n="32–34">I ask you to receive this briefly worded prognostication in good part, taking and interpreting it in the spirit in which I wrote it. I bid you farewell.</p>
+  </div></body></text>
+</TEI>
