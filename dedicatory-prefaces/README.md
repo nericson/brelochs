@@ -4,7 +4,7 @@ Version 0.1 • 24 October 2026 • First-pass visual transcriptions for scholar
 
 ## Expanded census and analysis
 
-The [forecast-year census](census/README.md) documents 26 years. The [Geneva 1533 dossier](comparanda/1533-geneva/README.md) adds the French address, facsimiles, TEI and English translation. The [revised polemic study](analysis/CENSUS-REASSESSMENT.md) compares it with the German dedications below.
+The [forecast-year census](census/README.md) documents 26 years. The [Geneva 1533 dossier](comparanda/1533-geneva/README.md) includes all eight facsimile pages, the full English translation and French TEI for the opening and closing addresses. The [Nuremberg record](census/NUREMBERG.md) gives the evidence for the four German copies whose openings remain inaccessible online. The [revised polemic study](analysis/CENSUS-REASSESSMENT.md) compares it with the German dedications below.
 
 ## German dedication corpus
 

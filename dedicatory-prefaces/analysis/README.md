@@ -1,6 +1,6 @@
 # Comparative analysis of the dedicatory prefaces
 
-Start with the [census-based reassessment](CENSUS-REASSESSMENT.md), including the line-linked 1533 French evidence.
+Start with the [census-based reassessment](CENSUS-REASSESSMENT.md), including the line-linked 1533 French evidence and a [comparison with the body and closing prayer](CENSUS-REASSESSMENT.md#testing-the-1533-preface-against-the-rest-of-the-booklet).
 
 Start with the [completed hypothesis test and methodological reassessment](HYPOTHESIS-TEST.md), updated November 20, 2026. [REPORT.md](REPORT.md) preserves the initial annual readings and 25-unit analysis. This is an exploratory, single-reader study of changing defensive strategies and implied criticism, not an independently reviewed historical conclusion.
 

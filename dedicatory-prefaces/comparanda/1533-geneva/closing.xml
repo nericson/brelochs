@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="geneva1533-closing">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Close of the Geneva forecast for 1533, with colophon and motto</title>
+        <respStmt><resp>Working transcription and translation, prepared with AI assistance</resp><name>Brelochs project</name></respStmt>
+      </titleStmt>
+      <publicationStmt><p>Brelochs project, 20 November 2026.</p></publicationStmt>
+      <sourceDesc><bibl>Anton Brelochs, <title>Practique ou pronostication nouvelle Dallemaigne, et almanach véritable</title>, Geneva, Gabriel Pomar, [1532]. Bibliothèque de Genève, Bsa 46, GLN 5819. <ref target="https://doi.org/10.3931/e-rara-7011">Facsimile</ref>, final printed leaf [A4]r, e-rara image [11].</bibl></sourceDesc>
+    </fileDesc>
+    <encodingDesc><editorialDecl><p>The six numbered lines begin at the pointing hand below the December table. Abbreviations are expanded and long s is normalized. Spacing and punctuation are lightly regularized. The leaf has surface damage through the middle. The reading of the damaged portions, including the verb of prayer and the colophon, follows comparison with Antal Lökkös, <title>Pronostication inconnue dans la reliure d’un missel</title>, <title>Genava</title> n.s. 33 (1985), 65–74, at 74. Unusual spellings are retained. The English renders the sense of the six lines in three groups.</p></editorialDecl></encodingDesc>
+  </teiHeader>
+  <facsimile><surface xml:id="g33-a4r" n="[A4]r"><graphic url="forecast-A4r.jpg"/><graphic url="https://www.e-rara.ch/gep_g/content/zoom/4790540"/></surface></facsimile>
+  <text><body>
+    <div type="conclusion" xml:lang="frm"><pb n="[A4]r" facs="#g33-a4r"/>
+      <p xml:id="g33-prayer"><lb n="1" xml:id="g33-end01"/>Et par ainsi se fine ma practique: prins dens naturelles
+      <lb n="2" xml:id="g33-end02"/>influences des constellations: pour l’aduisement des humains
+      <lb n="3" xml:id="g33-end03"/>Pour quoy nous <unclear reason="damage">prierons tous</unclear> dieu deuotement: qu’il
+      <lb n="4" xml:id="g33-end04"/>nous veulle destourner tous inconueniens. Amen.</p>
+    </div>
+    <div type="colophon" xml:lang="frm"><p xml:id="g33-imprint"><lb n="5"/>Translaté &amp; <unclear reason="damage">Imprimé a</unclear> Genesue par Gabriel Pomar</p>
+      <p xml:lang="la" xml:id="g33-motto"><lb n="6"/>✳ In te ✳ domine ✳ confido ✳</p>
+      <figure><figDesc>Two angels supporting the arms of Geneva beneath the motto.</figDesc></figure>
+    </div>
+    <div type="translation" xml:lang="en"><p corresp="#g33-prayer">And so ends my forecast, drawn from the natural influences of the constellations to give people warning. For this reason we shall all pray devoutly to God that he may turn every misfortune away from us. Amen.</p>
+      <p corresp="#g33-imprint">Translated and printed at Geneva by Gabriel Pomar.</p>
+      <p corresp="#g33-motto">In you, Lord, I trust.</p>
+    </div>
+  </body></text>
+</TEI>
