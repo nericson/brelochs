@@ -26,7 +26,7 @@ Historical spelling, capitalization, u/v, i/j and punctuation are retained as re
 
 Every transcribed printed line begins with `<lb>` and has a unique `xml:id`. `<pb>` marks a page change and points through `@facs` to a `<surface>` containing both a local image reference and an online source. Line numbers restart on each page and count only the transcribed dedication lines. Inferred leaf labels are identified as such in the headers. Heading, paragraph and subscription boundaries are editorial.
 
-`<unclear>` identifies a tentative reading. `<abbr>` identifies a retained abbreviation where explicitly encoded; retained abbreviation strokes elsewhere are not exhaustively tagged. `<sic>` marks the retained date in 1535, without imposing a correction. Unmarked text is also provisional. No modernized German text or English translation is supplied.
+`<unclear>` identifies a tentative reading. `<abbr>` identifies a retained abbreviation where explicitly encoded; retained abbreviation strokes elsewhere are not exhaustively tagged. `<sic>` marks the retained date in 1535, without imposing a correction. Unmarked text is also provisional. No modernized German text is supplied. Complete working English translations are now available separately in [translations/](translations/README.md).
 
 Catchwords, printed leaf signatures, ornaments, library stamps and subsequent annotations are omitted. Portions of the main prognostication appearing below a dedication on the same image are excluded. The short statement about division into eight chapters in 1559 is retained because it appears before the authorial signature; corresponding post-signature transitions in 1532, 1538 and 1542 are outside the selected dedication boundary.
 
@@ -50,3 +50,7 @@ To validate an edited XML file, use its `xml-model` association with the bundled
 ## Comparative research
 
 See [analysis/REPORT.md](analysis/REPORT.md) for an exploratory study of changing defensive strategies, implied criticism, textual reuse and the missing 1548 preface. The [analysis directory](analysis/) includes passage-level coding and reproducible evidence tables.
+
+## English translations
+
+[Read the English translations](translations/README.md), available as Markdown and source-aligned TEI-XML for all twelve witnesses (eleven years, including the alternate 1535 copy). Translation notes preserve uncertainties and the original forecast/dedication date distinction. These are working scholarly translations from the provisional German transcriptions.

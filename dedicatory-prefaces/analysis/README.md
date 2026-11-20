@@ -24,4 +24,4 @@ A developed argument requires a reason for legitimacy, causal knowledge, utility
 
 All twelve TEI texts were read; nine argument-bearing images were visually checked during this study (listed in the report). These checks support the thematic reading but are not a new full collation. The original working transcriptions retain their first-pass status and uncertainties. The 1548 lead is explicitly external and uncoded.
 
-No remote publication is implied by the presence of these local files. GitHub synchronization was pending when this report was prepared.
+No remote publication is implied by the presence of these local files. The original report and transcription set were synchronized on GitHub. The 1548 follow-up and English translations are subsequent additions; publication should be checked against the repository history.

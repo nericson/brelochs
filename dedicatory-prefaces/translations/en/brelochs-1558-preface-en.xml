@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1558-en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: English translation of the dedicatory preface for 1558</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted English translation and editorial review; scholarly working version</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1. Complete working English translation from the linked semi-diplomatic German transcription.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 2026-11-20. Historical German text is public domain. No independent critical collation or external peer review is claimed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1558: dedicatory preface</title>
+          <date type="forecastYear" when="1558">1558</date>
+          <ref target="../../tei/brelochs-1558-preface.xml">German TEI witness</ref>
+          <note>Dresden, SLUB; shelfmark Astron.518.s,misc.9. Leaves: A2r, A2v, A3r. Leaf designations inherited from the image collection; some are inferred.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Complete English translation; spelling and names follow readable English conventions. Your Worships renders the variable civic honorifics approximately; mayors renders Stetmeister without implying identity with a modern mayoralty. Predictive Astronomia/Astronomei is generally translated astrology, with the historical overlap of astronomy and astrology acknowledged. Historical assertions and attributed authorities are translated as presented, without endorsing or authenticating them.</p>
+        <p>Editorial English paragraph divisions and punctuation do not reproduce printed lineation. Each translationSegment div has @corresp linking the first and last German xml:id in an inclusive source-line range; a single link denotes one line. The ranges cover all transcribed lines exactly once. Brackets mark explanatory supplies or tentative readings; the end notes discuss uncertainties. Source images and their provenance remain linked in the German TEI. No missing preface is reconstructed.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-11-20">Initial English translation with source alignment, editorial notes and completeness checks.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+      <div type="dedication">
+        <head>Anton Brelochs: English translation of the dedicatory preface for 1558</head>
+        <div type="translationSegment" n="1" corresp="../../tei/brelochs-1558-preface.xml#line-1558-1-1 ../../tei/brelochs-1558-preface.xml#line-1558-1-6" xml:id="en-1558-s1">
+          <p>To the steadfast, honorable, prudent, respected, and wise mayors and council of the praiseworthy city of Schwäbisch Hall in the Holy Roman Empire, my gracious and beloved lords in authority.</p>
+        </div>
+        <div type="translationSegment" n="2" corresp="../../tei/brelochs-1558-preface.xml#line-1558-1-7 ../../tei/brelochs-1558-preface.xml#line-1558-2-20" xml:id="en-1558-s2">
+          <p>Steadfast, honorable, prudent, and wise lords: first I offer Your Worships my entirely willing and diligent service. Gracious and beloved lords,</p>
+          <p>The heavenly powers have been created by divine ordinance, and they cannot be prevented from truly coming to pass and appearing. That this is so may be recognized by careful attention. Who among earthly beings can prevent the daily movements and revolutions of the heavens? What earthly person has such great power that he could reverse the course of the sun, which proceeds against the primary movement of the heavens, and turn it backward? Who could change the courses of the other planets—which at one time move forward and at another backward—into different movements? Who could have such authority that, when the sun and moon come together at the Dragon's Head or Tail, he could forbid and prevent the sun from hiding its light and radiance from us? What person has such great power that he could prevent the shadowing of the moon when it is full near the Dragon's Head or Tail? Truly, no one except almighty God, our Creator, alone.</p>
+          <p>These things are the footprints of our Redeemer, according to the testimony of the holy teacher Gregory. When we see them, we marvel not only at his strength and power, but still more at his wonderful works, wisdom, and inexpressible goodness and generosity.</p>
+          <p>Truly, they are wonderful works: through divine creation the noble lights, sun and moon, together with the other stars, have by no means been placed in the heavens in vain. These lower things are moved through the indications of the higher stars, at one time by mortality, at another by dearth, and at another by wars, etc. Such things might also appear in great number and often, if a counteracting cause of the higher bodies did not at times resist and overcome such indications.</p>
+          <p>In the same way, a magnet always draws iron to itself; but if it is smeared with garlic juice, its power is taken away. An animal's wound would also fester if it were not helped with salves and medicines. So too the stars would sometimes bring about terrible occurrences if a stronger and more powerful cause did not encounter and oppose them.</p>
+        </div>
+        <div type="translationSegment" n="3" corresp="../../tei/brelochs-1558-preface.xml#line-1558-2-21 ../../tei/brelochs-1558-preface.xml#line-1558-2-33" xml:id="en-1558-s3">
+          <p>For this reason, sailors at sea always steer by the stars. Farmers and shepherds likewise observe the configuration of the moon and heavens in the conception of livestock and in the sowing and planting of crops, to avoid suffering harm from unfortunate and evil occurrences. For, as Ptolemy explains, a wise man can prevent much evil that would otherwise come through the stars if he investigates the nature and properties of the stars.</p>
+          <p>On this basis I have once again undertaken to arrange a prognostication for the coming year, as briefly as possible, indicating what good or evil the stars signify for us in that year according to the course of nature.</p>
+        </div>
+        <div type="translationSegment" n="4" corresp="../../tei/brelochs-1558-preface.xml#line-1558-3-1 ../../tei/brelochs-1558-preface.xml#line-1558-3-2" xml:id="en-1558-s4">
+          <p>Given at Schwäbisch Hall on the feast of John the Baptist, in the year 1557.</p>
+        </div>
+        <div type="translationSegment" n="5" corresp="../../tei/brelochs-1558-preface.xml#line-1558-3-3 ../../tei/brelochs-1558-preface.xml#line-1558-3-6" xml:id="en-1558-s5">
+          <p>Your Worships’ obedient servant,
+Dr. Antonius Brelochs.</p>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div type="editorialNotes">
+        <head>Translation notes</head>
+        <note type="translation" n="1" xml:id="en-1558-n1">The source marks only the final n of lieben in the salutation as unclear. This grammatical uncertainty does not affect the English 'beloved'. E.F.W. is rendered 'Your Worships', a collective civic honorific; Stätmeystern is rendered 'mayors'.</note>
+        <note type="translation" n="2" xml:id="en-1558-n2">The Dragon's Head and Tail are the ascending and descending lunar nodes. The translation preserves the historical names. The 'primary movement' refers to the overarching daily motion of the heavens within the cosmology assumed by the author.</note>
+        <note type="translation" n="3" xml:id="en-1558-n3">At A2v, lines 12–14, 'ein widerwertige vrsach der öbersten Cörper' is syntactically difficult. 'A counteracting cause of the higher bodies' closely preserves the transmitted construction. It may describe a countervailing celestial cause or a cause acting against the higher bodies' indications; the translation does not decide its exact physical location. The subsequent sentence explicitly says that a stronger cause may oppose the stars' effects.</note>
+        <note type="translation" n="4" xml:id="en-1558-n4">The claims about garlic inhibiting magnetism and about celestial influences are translated as historical assertions. The translation does not substitute modern explanations. Sterben in the catalogue of calamities is rendered 'mortality'; the context may particularly evoke widespread deaths or epidemic mortality.</note>
+        <note type="translation" n="5" xml:id="en-1558-n5">The translation retains the attribution to the holy teacher Gregory without supplying an unverified work or passage. The initial inability to prevent heavenly movements is distinguished in the source itself from the later possibility of counteracting their indicated earthly effects.</note>
+      </div>
+    </back>
+  </text>
+</TEI>

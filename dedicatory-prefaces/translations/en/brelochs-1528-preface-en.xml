@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1528-en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: English translation of the dedicatory preface for 1528</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted English translation and editorial review; scholarly working version</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1. Complete working English translation from the linked semi-diplomatic German transcription.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 2026-11-20. Historical German text is public domain. No independent critical collation or external peer review is claimed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1528: dedicatory preface</title>
+          <date type="forecastYear" when="1528">1528</date>
+          <ref target="../../tei/brelochs-1528-preface.xml">German TEI witness</ref>
+          <note>Augsburg, Staats- und Stadtbibliothek; shelfmark 4 LR 249#(Beibd. 7. Leaves: A2r, A2v. Leaf designations inherited from the image collection; some are inferred.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Complete English translation; spelling and names follow readable English conventions. Your Worships renders the variable civic honorifics approximately; mayors renders Stetmeister without implying identity with a modern mayoralty. Predictive Astronomia/Astronomei is generally translated astrology, with the historical overlap of astronomy and astrology acknowledged. Historical assertions and attributed authorities are translated as presented, without endorsing or authenticating them.</p>
+        <p>Editorial English paragraph divisions and punctuation do not reproduce printed lineation. Each translationSegment div has @corresp linking the first and last German xml:id in an inclusive source-line range; a single link denotes one line. The ranges cover all transcribed lines exactly once. Brackets mark explanatory supplies or tentative readings; the end notes discuss uncertainties. Source images and their provenance remain linked in the German TEI. No missing preface is reconstructed.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-11-20">Initial English translation with source alignment, editorial notes and completeness checks.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+      <div type="dedication">
+        <head>Anton Brelochs: English translation of the dedicatory preface for 1528</head>
+        <div type="translationSegment" n="1" corresp="../../tei/brelochs-1528-preface.xml#line-1528-1-1 ../../tei/brelochs-1528-preface.xml#line-1528-1-3" xml:id="en-1528-s1">
+          <p>To the steadfast, honorable, prudent, respected, and wise mayors and council of the city of Schwäbisch Hall, my gracious and beloved lords and superiors.</p>
+        </div>
+        <div type="translationSegment" n="2" corresp="../../tei/brelochs-1528-preface.xml#line-1528-1-4 ../../tei/brelochs-1528-preface.xml#line-1528-2-15" xml:id="en-1528-s2">
+          <p>Steadfast, honorable, prudent and wise lords: I first offer Your Worships my entirely willing and diligent service, my gracious and beloved lords and superiors. Your Worships know that almighty, eternal God truly created the heavens, the sun and moon, together with the other stars, for the particular benefit of human beings and this lower world. In these created things one finds what is to happen among the creatures of this mortal world. Accordingly Aristotle, the [principal—reading uncertain] master of natural philosophy, says: This lower world is joined to the higher bodies of heaven so that all its power may be governed by them. Ptolemy, [highly esteemed—reading uncertain] in astrology, also repeatedly attests this, saying: This lower world is subject to the stars of heaven, from which one may obtain knowledge of great future events, of the things that are to happen by nature, and thus learn them with certainty. For through the ordering of the heavenly bodies and their revolutions, divine power, wisdom and goodness are revealed in governing these lower, earthly bodies through the higher ones. The royal prophet David in his book of Psalms, and likewise the philosopher Plato, say and maintain that, by God's will, these things are written in the heavens as in a book for us to know. John of Damascus and Albert the Great, together with other Christian teachers, also firmly maintain this, saying: Almighty God has made the heavens like a skin or a book in which all events [reading uncertain] and future things that are to happen by nature in this lower world are written. Human beings are permitted to read it: whoever can read it may do so.</p>
+          <p>Such influence and inclination of the stars can indeed be known through the natural art of astrology. Therefore it is [right—reading uncertain] and true to believe that almighty God extended the lives of the holy fathers, namely Noah, Abraham and others, over many years so that they might thoroughly understand the lofty and useful art of astrology for the good of humankind. Ptolemy, Albumasar, Hermes and many others highly learned in this art have also been gifted with profound natural understanding, enabling them, through long effort and labor, to investigate the true courses of the stars and planets and their nature, together with the twelve stars and houses in the heavens. In them all the events and future occurrences of this lower world are impressed and contained, for prosperity or [destruction—reading uncertain], through those same houses from one to another.</p>
+          <p>Through the planets also, as they pass among the fixed stars, and through their bad and good aspects, all are led, governed and guided: [now—reading uncertain] toward good, joy or prosperity, and then toward evil, such as war, rebellion, pestilence, illnesses, dearth and the like. Consequently a person finds himself healthy, prosperous and joyful for a time, and at another time ill, sorrowful and beset by great adversity.</p>
+          <p>On these grounds, by the grace of almighty God, I have composed and written, with no small diligence, a prognostication, commonly called a Practica, in honor of Your Worships and for the benefit of all humankind. Its purpose is to enable people to pay attention to future events, to guard against dangers and the like as far as possible, and to endure future misfortune, some of which they may perhaps avoid [construction uncertain]. That this is possible is openly attested by Ptolemy, most renowned in astrology, in the Book of a Hundred Sayings: A person can and may, by and with the aid of astrology, prevent much evil here on earth and avert much harm to human beings arising from the influence of the stars.</p>
+          <p>I have wished to make known that inclination and influence for this coming year 1528, drawing on the counsel of those most experienced in this art, and to have it disseminated in print below—not because things must always happen in this way, but as a warning. I therefore humbly ask Your Worships graciously to accept from me this judgment, briefly set out and composed for Your Worships' particular pleasure. To you I herewith commend myself in humble, dutiful and obedient submission. Given on the [twelfth?] day of July, in the year [1527?].</p>
+        </div>
+        <div type="translationSegment" n="3" corresp="../../tei/brelochs-1528-preface.xml#line-1528-2-16 ../../tei/brelochs-1528-preface.xml#line-1528-2-17" xml:id="en-1528-s3">
+          <p>Your Worships' obedient servant,
+Dr. Antonius Brelochs.</p>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div type="editorialNotes">
+        <head>Translation notes</head>
+        <note type="translation" n="1" xml:id="en-1528-n1">The civic title Stetmaister is conventionally rendered mayors; its precise local office should be distinguished from a modern mayoralty. E.E.W. is rendered Your Worships as an approximate collective English civic honorific addressed to the magistrates and council.</note>
+        <note type="translation" n="2" xml:id="en-1528-n2">Astronomei/Astronomia is generally rendered astrology in this predictive context. Early modern usage overlapped the modern disciplines of astronomy and astrology; the translation does not imply that Brelochs used the modern distinction. Zunaygung/neigung is rendered inclination, and einfluß influence.</note>
+        <note type="translation" n="3" xml:id="en-1528-n3">The German working transcription marks Hauptlich (A2r, line 10), geehrest (line 12), gültlichen (line 27), zurstöligkait (line 36), and Yetzo (line 38) as unclear. Their tentative English renderings are bracketed. Natural philosophy is the contextual sense of natürlich in Aristotle's title; destruction is the probable contextual sense of the unclear word opposed to prosperity.</note>
+        <note type="translation" n="4" xml:id="en-1528-n4">At A2r, line 23, the working transcription reads alle geschrybt, a syntactically difficult reading. The scan appears compatible with geschicht (events), but a fresh collation is needed. The translation therefore marks events as uncertain rather than silently treating a correction as established. Likewise the twelve stars in line 34 may refer to zodiacal signs, but the translation retains the working transcription's steren rather than substituting signs without notice.</note>
+        <note type="translation" n="5" xml:id="en-1528-n5">Damascenus is rendered John of Damascus, and Albertus der groß Albert the Great. Ptolemy, Albumasar and Hermes follow conventional English forms of the names cited. The translation reports Brelochs's attributions; it does not verify their source passages or authorship. His Book of a Hundred Sayings is the work traditionally attributed to Ptolemy, commonly called the Centiloquium.</note>
+        <note type="translation" n="6" xml:id="en-1528-n6">The uncertain xij and xxvij in the subscription are tentatively rendered twelfth and 1527. Hewmonadt is July. The forecast year 1528 and the dedication's apparent date in 1527 are distinguished. The source's abbreviated Anno &amp;c. supplies only xxvij; the full century is expanded contextually and remains bracketed with the uncertain year.</note>
+        <note type="translation" n="7" xml:id="en-1528-n7">At A2v, lines 2–3, das ander etwan können vermeyden is ambiguous in the provisional transcription. The English tentatively takes it to mean that some misfortune may be avoided; alternatives include misfortune that others may avoid or other misfortunes that may be avoided. The broad contrast of enduring and averting harm is clear, but this clause requires collation.</note>
+      </div>
+    </back>
+  </text>
+</TEI>

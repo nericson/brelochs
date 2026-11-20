@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1538-en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: English translation of the dedicatory preface for 1538</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted English translation and editorial review; scholarly working version</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1. Complete working English translation from the linked semi-diplomatic German transcription.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 2026-11-20. Historical German text is public domain. No independent critical collation or external peer review is claimed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1538: dedicatory preface</title>
+          <date type="forecastYear" when="1538">1538</date>
+          <ref target="../../tei/brelochs-1538-preface.xml">German TEI witness</ref>
+          <note>Heidelberg University Library; shelfmark Cod. Pal. germ. 304. Leaves: A1v (bound volume f. 40v). Leaf designations inherited from the image collection; some are inferred.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Complete English translation; spelling and names follow readable English conventions. Your Worships renders the variable civic honorifics approximately; mayors renders Stetmeister without implying identity with a modern mayoralty. Predictive Astronomia/Astronomei is generally translated astrology, with the historical overlap of astronomy and astrology acknowledged. Historical assertions and attributed authorities are translated as presented, without endorsing or authenticating them.</p>
+        <p>Editorial English paragraph divisions and punctuation do not reproduce printed lineation. Each translationSegment div has @corresp linking the first and last German xml:id in an inclusive source-line range; a single link denotes one line. The ranges cover all transcribed lines exactly once. Brackets mark explanatory supplies or tentative readings; the end notes discuss uncertainties. Source images and their provenance remain linked in the German TEI. No missing preface is reconstructed.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-11-20">Initial English translation with source alignment, editorial notes and completeness checks.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+      <div type="dedication">
+        <head>Anton Brelochs: English translation of the dedicatory preface for 1538</head>
+        <div type="translationSegment" n="1" corresp="../../tei/brelochs-1538-preface.xml#line-1538-1-1 ../../tei/brelochs-1538-preface.xml#line-1538-1-4" xml:id="en-1538-s1">
+          <p>To the steadfast, honorable, prudent, respected, and wise mayors and council of the city of Schwäbisch Hall, my gracious and dear lords in authority.</p>
+        </div>
+        <div type="translationSegment" n="2" corresp="../../tei/brelochs-1538-preface.xml#line-1538-1-5 ../../tei/brelochs-1538-preface.xml#line-1538-1-17" xml:id="en-1538-s2">
+          <p>Steadfast, honorable, prudent, and wise lords: I first offer Your Worships my most willing and diligent service. Gracious and dear lords in authority, I have once again undertaken, according to my limited understanding, to disclose what the influences of the stars and the disposition of the heavens signify and threaten for us in the year 1538. I have thus set this down and assembled it as briefly as possible in a prognostication, which I dedicate and present to Your Worships in the customary manner, with the earnest and humble request that you graciously accept it from me and, with your customary kindness, interpret it in the most favorable light. May you also continue to regard me as commended to your care as your humble and willing servant. Given on St. Margaret’s Day, the thirteenth day of July, in the year 1537.</p>
+        </div>
+        <div type="translationSegment" n="3" corresp="../../tei/brelochs-1538-preface.xml#line-1538-1-18 ../../tei/brelochs-1538-preface.xml#line-1538-1-21" xml:id="en-1538-s3">
+          <p>Your Worships’ obedient servant,
+Dr. Antonius Brelochs.</p>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div type="editorialNotes">
+        <head>Translation notes</head>
+        <note type="translation" n="1" xml:id="en-1538-n1">Hewmonat is rendered July. Both the feast reference and its printed numbered date are retained.</note>
+        <note type="translation" n="2" xml:id="en-1538-n2">The contracted signature Anthonꝰ is represented by the conventional Latin form Antonius; this is a translation convention, not a change to the German witness.</note>
+      </div>
+    </back>
+  </text>
+</TEI>

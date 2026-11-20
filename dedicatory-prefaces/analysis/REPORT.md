@@ -162,3 +162,7 @@ Primary sources: the twelve XML witnesses and associated page images in this dir
 - Herbst, Klaus-Dieter. “Brelochs, Anton.” *Biobibliographisches Handbuch der Kalendermacher*. [Entry](https://www.presseforschung.uni-bremen.de/dokuwiki/doku.php?id=brelochs_anton). Accessed October 24, 2026. Used for the 1548 holding leads, not as a substitute for its text.
 
 Companion files: `coded-passages.csv` (25 units with quotations and XML line identifiers); `year-matrix.csv` (11 annual observations); `line-register.csv` (all dedication lines, including the alternate copy); `shared-token-runs.csv` (limited exact-match aid); `build_evidence.py` (regeneration); `input-checksums.json` (provenance); `README.md` (usage and coding rules).
+
+## Continuation: 1548 source search
+
+The [1548 follow-up](1548-FOLLOWUP.md) documents a newly recovered title-page photograph, confirmed copy identification, an excluded Sibenbürger false lead, and a decision table for coding the missing A1v. The dedication itself remains unretrieved; no additional annual text has been added to the corpus.

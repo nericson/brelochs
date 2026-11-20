@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1531-en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: English translation of the dedicatory preface for 1531</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted English translation and editorial review; scholarly working version</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1. Complete working English translation from the linked semi-diplomatic German transcription.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 2026-11-20. Historical German text is public domain. No independent critical collation or external peer review is claimed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1531: dedicatory preface</title>
+          <date type="forecastYear" when="1531">1531</date>
+          <ref target="../../tei/brelochs-1531-preface.xml">German TEI witness</ref>
+          <note>Munich, Bayerische Staatsbibliothek; shelfmark Res/4 Astr.p. 511,24. Leaves: A1v. Leaf designations inherited from the image collection; some are inferred.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Complete English translation; spelling and names follow readable English conventions. Your Worships renders the variable civic honorifics approximately; mayors renders Stetmeister without implying identity with a modern mayoralty. Predictive Astronomia/Astronomei is generally translated astrology, with the historical overlap of astronomy and astrology acknowledged. Historical assertions and attributed authorities are translated as presented, without endorsing or authenticating them.</p>
+        <p>Editorial English paragraph divisions and punctuation do not reproduce printed lineation. Each translationSegment div has @corresp linking the first and last German xml:id in an inclusive source-line range; a single link denotes one line. The ranges cover all transcribed lines exactly once. Brackets mark explanatory supplies or tentative readings; the end notes discuss uncertainties. Source images and their provenance remain linked in the German TEI. No missing preface is reconstructed.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-11-20">Initial English translation with source alignment, editorial notes and completeness checks.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+      <div type="dedication">
+        <head>Anton Brelochs: English translation of the dedicatory preface for 1531</head>
+        <div type="translationSegment" n="1" corresp="../../tei/brelochs-1531-preface.xml#line-1531-1-1 ../../tei/brelochs-1531-preface.xml#line-1531-1-3" xml:id="en-1531-s1">
+          <p>To the honorable, prudent, respected, and wise mayors and council of the city of Schwäbisch Hall, my gracious and dear lords.</p>
+        </div>
+        <div type="translationSegment" n="2" corresp="../../tei/brelochs-1531-preface.xml#line-1531-1-4 ../../tei/brelochs-1531-preface.xml#line-1531-1-14" xml:id="en-1531-s2">
+          <p>Honorable, prudent, respected, and wise lords: I first offer Your Worships my most willing and diligent service. Gracious and dear lords, I have once again undertaken, according to my limited understanding, to disclose what the influence of the stars and the disposition of the heavens signify and threaten for us in the year 1531. I have also set this down as briefly as possible in a practica, which I present to Your Worships in the customary manner, with the earnest and humble request that you graciously accept it from me and continue to regard me as commended to your care as your humble, obedient, and willing servant. Calculated and written at Schwäbisch Hall on the twelfth day of June, in the year 1530.</p>
+        </div>
+        <div type="translationSegment" n="3" corresp="../../tei/brelochs-1531-preface.xml#line-1531-1-15 ../../tei/brelochs-1531-preface.xml#line-1531-1-17" xml:id="en-1531-s3">
+          <p>Your Worships’ obedient servant,
+Dr. Antonius Brelochs.</p>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div type="editorialNotes">
+        <head>Translation notes</head>
+        <note type="translation" n="1" xml:id="en-1531-n1">The opening Erern is awkward in the working transcription; the repeated honorific formula is translated conventionally.</note>
+        <note type="translation" n="2" xml:id="en-1531-n2">Brachmonat is rendered June. The year forecast is 1531; the dedication is dated 1530.</note>
+        <note type="translation" n="3" xml:id="en-1531-n3">Practica denotes the annual astrological prognostication, not a practical handbook.</note>
+      </div>
+    </back>
+  </text>
+</TEI>

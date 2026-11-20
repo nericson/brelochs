@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1557-en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: English translation of the dedicatory preface for 1557</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted English translation and editorial review; scholarly working version</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1. Complete working English translation from the linked semi-diplomatic German transcription.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 2026-11-20. Historical German text is public domain. No independent critical collation or external peer review is claimed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1557: dedicatory preface</title>
+          <date type="forecastYear" when="1557">1557</date>
+          <ref target="../../tei/brelochs-1557-preface.xml">German TEI witness</ref>
+          <note>Heidelberg University Library; shelfmark Q 7518-2 RES. Leaves: A2r, A2v. Leaf designations inherited from the image collection; some are inferred.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Complete English translation; spelling and names follow readable English conventions. Your Worships renders the variable civic honorifics approximately; mayors renders Stetmeister without implying identity with a modern mayoralty. Predictive Astronomia/Astronomei is generally translated astrology, with the historical overlap of astronomy and astrology acknowledged. Historical assertions and attributed authorities are translated as presented, without endorsing or authenticating them.</p>
+        <p>Editorial English paragraph divisions and punctuation do not reproduce printed lineation. Each translationSegment div has @corresp linking the first and last German xml:id in an inclusive source-line range; a single link denotes one line. The ranges cover all transcribed lines exactly once. Brackets mark explanatory supplies or tentative readings; the end notes discuss uncertainties. Source images and their provenance remain linked in the German TEI. No missing preface is reconstructed.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-11-20">Initial English translation with source alignment, editorial notes and completeness checks.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+      <div type="dedication">
+        <head>Anton Brelochs: English translation of the dedicatory preface for 1557</head>
+        <div type="translationSegment" n="1" corresp="../../tei/brelochs-1557-preface.xml#line-1557-1-1 ../../tei/brelochs-1557-preface.xml#line-1557-1-6" xml:id="en-1557-s1">
+          <p>To the steadfast, honorable, prudent, respected, and wise mayors and council of the praiseworthy city of Schwäbisch Hall in the Holy Roman Empire, my gracious and beloved lords in authority.</p>
+        </div>
+        <div type="translationSegment" n="2" corresp="../../tei/brelochs-1557-preface.xml#line-1557-1-7 ../../tei/brelochs-1557-preface.xml#line-1557-2-2" xml:id="en-1557-s2">
+          <p>Steadfast, honorable, prudent, and wise lords: first I offer Your Worships my entirely willing and diligent service. Gracious and beloved lords in authority,</p>
+          <p>Ptolemy, a highly renowned teacher in the art of the stars, explains and describes in his little book of a hundred sayings how the changes of the bodies of this lower world, now into one state and then into another, take place through the revolutions and changes of the heavenly bodies. We see this daily and have now experienced it for many years: the courses of the seven wandering stars and of other stars have caused many great uprisings, violent wars, severe and deadly epidemics, and terrible and prolonged dearth. Although many people sufficiently indicated and reported these things as warnings some years ago, no one has taken them to heart up to now; instead, people have continually become more obstinate, just as similar things happened frequently in the times of the prophets, etc.</p>
+          <p>Accordingly, once again, to please Your Worships humbly, for everyone's benefit and for the welfare of the German nation as a whole, I have undertaken to describe as briefly as possible in this prognostication of mine what good or evil the stars indicate and threaten for us in this year 1557. I ask Your Worships to receive this from me and interpret it as favorably as possible, and to keep me, your humble servant, in your gracious care.</p>
+        </div>
+        <div type="translationSegment" n="3" corresp="../../tei/brelochs-1557-preface.xml#line-1557-2-3 ../../tei/brelochs-1557-preface.xml#line-1557-2-4" xml:id="en-1557-s3">
+          <p>Given at Schwäbisch Hall on St. Medard's Day, the eighth of June, in the year [15]56, expressed in abbreviated form.</p>
+        </div>
+        <div type="translationSegment" n="4" corresp="../../tei/brelochs-1557-preface.xml#line-1557-2-5 ../../tei/brelochs-1557-preface.xml#line-1557-2-9" xml:id="en-1557-s4">
+          <p>Your Worships' obedient servant, Antonius Brelochs, Doctor of Medicine.</p>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div type="editorialNotes">
+        <head>Translation notes</head>
+        <note type="translation" n="1" xml:id="en-1557-n1">The civic honorific E.F.W. is rendered 'Your Worships', a collective form of address to the magistrates; Stetmaystern is rendered 'mayors'.</note>
+        <note type="translation" n="2" xml:id="en-1557-n2">The seven 'wandering stars' are the seven planets of the historical cosmological scheme, including the sun and moon. This vocabulary is retained rather than converted into the modern astronomical classification.</note>
+        <note type="translation" n="3" xml:id="en-1557-n3">The phrase '56.der mindern zale' gives a shortened year. The supplied century in '[15]56' makes the date readable while marking what is not printed in full.</note>
+        <note type="translation" n="4" xml:id="en-1557-n4">The little book of a hundred sayings is attributed to Ptolemy by Brelochs; the attribution is translated without independent authentication. Thewrung is rendered 'dearth', retaining the sense of scarcity and high prices.</note>
+      </div>
+    </back>
+  </text>
+</TEI>

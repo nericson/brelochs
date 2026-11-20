@@ -1,0 +1,13 @@
+witness,forecast_year,german,english_tei,english_markdown,source_lines,aligned_segments,status
+1528,1528,../tei/brelochs-1528-preface.xml,en/brelochs-1528-preface-en.xml,en/brelochs-1528-preface-en.md,62,3,Working translation; TEI schema valid; complete source-line coverage
+1529,1529,../tei/brelochs-1529-preface.xml,en/brelochs-1529-preface-en.xml,en/brelochs-1529-preface-en.md,69,3,Working translation; TEI schema valid; complete source-line coverage
+1531,1531,../tei/brelochs-1531-preface.xml,en/brelochs-1531-preface-en.xml,en/brelochs-1531-preface-en.md,17,3,Working translation; TEI schema valid; complete source-line coverage
+1532,1532,../tei/brelochs-1532-preface.xml,en/brelochs-1532-preface-en.xml,en/brelochs-1532-preface-en.md,19,3,Working translation; TEI schema valid; complete source-line coverage
+1535,1535,../tei/brelochs-1535-preface.xml,en/brelochs-1535-preface-en.xml,en/brelochs-1535-preface-en.md,27,3,Working translation; TEI schema valid; complete source-line coverage
+1535-Augsburg,1535,../tei/brelochs-1535-Augsburg-preface.xml,en/brelochs-1535-Augsburg-preface-en.xml,en/brelochs-1535-Augsburg-preface-en.md,27,3,Working translation; TEI schema valid; complete source-line coverage
+1538,1538,../tei/brelochs-1538-preface.xml,en/brelochs-1538-preface-en.xml,en/brelochs-1538-preface-en.md,21,3,Working translation; TEI schema valid; complete source-line coverage
+1542,1542,../tei/brelochs-1542-preface.xml,en/brelochs-1542-preface-en.xml,en/brelochs-1542-preface-en.md,43,3,Working translation; TEI schema valid; complete source-line coverage
+1547,1547,../tei/brelochs-1547-preface.xml,en/brelochs-1547-preface-en.xml,en/brelochs-1547-preface-en.md,38,4,Working translation; TEI schema valid; complete source-line coverage
+1557,1557,../tei/brelochs-1557-preface.xml,en/brelochs-1557-preface-en.xml,en/brelochs-1557-preface-en.md,37,4,Working translation; TEI schema valid; complete source-line coverage
+1558,1558,../tei/brelochs-1558-preface.xml,en/brelochs-1558-preface-en.xml,en/brelochs-1558-preface-en.md,67,5,Working translation; TEI schema valid; complete source-line coverage
+1559,1559,../tei/brelochs-1559-preface.xml,en/brelochs-1559-preface-en.xml,en/brelochs-1559-preface-en.md,34,3,Working translation; TEI schema valid; complete source-line coverage

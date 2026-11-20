@@ -1,0 +1,15 @@
+PASS 1528: TEI All RELAX NG; 62 source lines covered once in order; 3 aligned segments.
+PASS 1529: TEI All RELAX NG; 69 source lines covered once in order; 3 aligned segments.
+PASS 1531: TEI All RELAX NG; 17 source lines covered once in order; 3 aligned segments.
+PASS 1532: TEI All RELAX NG; 19 source lines covered once in order; 3 aligned segments.
+PASS 1535: TEI All RELAX NG; 27 source lines covered once in order; 3 aligned segments.
+PASS 1535-Augsburg: TEI All RELAX NG; 27 source lines covered once in order; 3 aligned segments.
+PASS 1538: TEI All RELAX NG; 21 source lines covered once in order; 3 aligned segments.
+PASS 1542: TEI All RELAX NG; 43 source lines covered once in order; 3 aligned segments.
+PASS 1547: TEI All RELAX NG; 38 source lines covered once in order; 4 aligned segments.
+PASS 1557: TEI All RELAX NG; 37 source lines covered once in order; 4 aligned segments.
+PASS 1558: TEI All RELAX NG; 67 source lines covered once in order; 5 aligned segments.
+PASS 1559: TEI All RELAX NG; 34 source lines covered once in order; 3 aligned segments.
+PASS: all 12 German witnesses have English TEI and Markdown translations.
+PASS: alternate 1535 translation wording matches primary witness.
+Validation checks structure and interval coverage; it does not establish translation accuracy.

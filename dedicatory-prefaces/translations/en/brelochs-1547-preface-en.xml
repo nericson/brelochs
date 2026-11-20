@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="brelochs-1547-en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anton Brelochs: English translation of the dedicatory preface for 1547</title>
+        <author>Anton Brelochs</author>
+        <respStmt>
+          <resp>AI-assisted English translation and editorial review; scholarly working version</resp>
+          <name>OpenAI ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 0.1. Complete working English translation from the linked semi-diplomatic German transcription.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>Prepared for Nathan Ericson’s Brelochs project, 2026-11-20. Historical German text is public domain. No independent critical collation or external peer review is claimed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Anton Brelochs</author>
+          <title>Practica Teutsch for 1547: dedicatory preface</title>
+          <date type="forecastYear" when="1547">1547</date>
+          <ref target="../../tei/brelochs-1547-preface.xml">German TEI witness</ref>
+          <note>Kiel University Library; shelfmark Cb 6871. Leaves: A1v. Leaf designations inherited from the image collection; some are inferred.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Complete English translation; spelling and names follow readable English conventions. Your Worships renders the variable civic honorifics approximately; mayors renders Stetmeister without implying identity with a modern mayoralty. Predictive Astronomia/Astronomei is generally translated astrology, with the historical overlap of astronomy and astrology acknowledged. Historical assertions and attributed authorities are translated as presented, without endorsing or authenticating them.</p>
+        <p>Editorial English paragraph divisions and punctuation do not reproduce printed lineation. Each translationSegment div has @corresp linking the first and last German xml:id in an inclusive source-line range; a single link denotes one line. The ranges cover all transcribed lines exactly once. Brackets mark explanatory supplies or tentative readings; the end notes discuss uncertainties. Source images and their provenance remain linked in the German TEI. No missing preface is reconstructed.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change when="2026-11-20">Initial English translation with source alignment, editorial notes and completeness checks.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <body>
+      <div type="dedication">
+        <head>Anton Brelochs: English translation of the dedicatory preface for 1547</head>
+        <div type="translationSegment" n="1" corresp="../../tei/brelochs-1547-preface.xml#line-1547-1-1 ../../tei/brelochs-1547-preface.xml#line-1547-1-3" xml:id="en-1547-s1">
+          <p>To the steadfast, honorable, prudent, respected, and wise mayors and council of the city of Schwäbisch Hall, my gracious and beloved lords in authority.</p>
+        </div>
+        <div type="translationSegment" n="2" corresp="../../tei/brelochs-1547-preface.xml#line-1547-1-4 ../../tei/brelochs-1547-preface.xml#line-1547-1-28" xml:id="en-1547-s2">
+          <p>Steadfast, honorable, prudent, and wise lords: first I offer Your Worships my entirely willing and diligent service. Gracious and beloved lords in authority,</p>
+          <p>Claudius Ptolemy of Pelusium, a highly renowned teacher in the art of the stars, writes and explains in his little book of a hundred sayings that the changes of the bodies of this lower world, now into one state and then into another, take place through the revolutions and changes of the heavenly bodies and through their influence. We see this daily and have now experienced it for many years: the movement and courses of the seven planets and other heavenly stars have caused many great uprisings, wars, severe and deadly epidemics, as well as terrible and prolonged dearth, fire, envy, hatred, and other such evils.</p>
+          <p>Many people have sufficiently reported and indicated these things as warnings in past years. Yet no one has taken all this to heart up to now, nor does anyone do so even now. Rather, the more we are warned—and especially the more earnestly we are exhorted and rebuked in church because of our wicked, grievous, and sinful lives—the more slowly and less readily we set about amending our lives; instead, we are continually found to be more obstinate. Similar things happened frequently in the times of the prophets, and greater and more notable calamity and harm generally followed, as Holy Scripture sufficiently shows and gives us to understand in many places.</p>
+          <p>Accordingly, once again, to please Your Worships humbly, for your benefit and for everyone's welfare, I have described in this prognostication of mine what future good or evil the stars threaten and indicate for us in this year 1547.</p>
+        </div>
+        <div type="translationSegment" n="3" corresp="../../tei/brelochs-1547-preface.xml#line-1547-1-29 ../../tei/brelochs-1547-preface.xml#line-1547-1-34" xml:id="en-1547-s3">
+          <p>I ask Your Worships to receive and interpret as favorably as possible this prognostication, thus composed as briefly as possible, and to keep me, your poor and humble servant, in your gracious care. To make it clearer and easier to understand, I have divided it, as briefly as possible, into eight chapters. Given at Schwäbisch Hall on St. Sophia's Day, the fifteenth of May, in the year 1546.</p>
+        </div>
+        <div type="translationSegment" n="4" corresp="../../tei/brelochs-1547-preface.xml#line-1547-1-35 ../../tei/brelochs-1547-preface.xml#line-1547-1-38" xml:id="en-1547-s4">
+          <p>Your Worships' obedient servant, Antonius Brelochs, Doctor of Medicine.</p>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div type="editorialNotes">
+        <head>Translation notes</head>
+        <note type="translation" n="1" xml:id="en-1547-n1">The civic honorific E.F.W. is rendered 'Your Worships'; it functions as a collective form of address to the magistrates, rather than a claim about their individual wisdom. Stetmeyster is rendered 'mayors'.</note>
+        <note type="translation" n="2" xml:id="en-1547-n2">The 'little book of a hundred sayings' is the work Brelochs attributes to Ptolemy. The translation preserves that attribution without independently establishing its authorship.</note>
+        <note type="translation" n="3" xml:id="en-1547-n3">Theurung denotes dearth or scarcity expressed in high prices. 'Dearth' preserves the economic sense without restricting the term to complete famine.</note>
+        <note type="translation" n="4" xml:id="en-1547-n4">The source's final relative clause about the eight chapters is loosely attached after the request for protection. The translation makes the intended reference to the prognostication explicit by starting a new sentence.</note>
+      </div>
+    </back>
+  </text>
+</TEI>
